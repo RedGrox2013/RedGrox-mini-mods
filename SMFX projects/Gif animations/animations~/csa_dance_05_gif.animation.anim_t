@@ -1,0 +1,5260 @@
+length 366
+
+event event0 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event1 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event2 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event3 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event4 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event5 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event6 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event7 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event8 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event9 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event10 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event11 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event12 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event13 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event14 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event15 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event16 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event17 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event18 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event19 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event20 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event21 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event22 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event23 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event24 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event25 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event26 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event27 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event28 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event29 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event30 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event31 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event32 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event33 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event34 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event35 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event36 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event37 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event38 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event39 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event40 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event41 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event42 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event43 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event44 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event45 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event46 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event47 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event48 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event49 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event50 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event51 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event52 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event53 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event54 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event55 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event56 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event57 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event58 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event59 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event60 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event61 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event62 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event63 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event64 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event65 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event66 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event67 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event68 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event69 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event70 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event71 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event72 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event73 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event74 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event75 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event76 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event77 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event78 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event79 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event80 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event81 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event82 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event83 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event84 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event85 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event86 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event87 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event88 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event89 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event90 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event91 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event92 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event93 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event94 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event95 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event96 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event97 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event98 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event99 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event100 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event101 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event102 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event103 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event104 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event105 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event106 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event107 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event108 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event109 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event110 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event111 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event112 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event113 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event114 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event115 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event116 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event117 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event118 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event119 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event120 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event121 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event122 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event123 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event124 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event125 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event126 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event127 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event128 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event129 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event130 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event131 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event132 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event133 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event134 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event135 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event136 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event137 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event138 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event139 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event140 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event141 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event142 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event143 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event144 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event145 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event146 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event147 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event148 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event149 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event150 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event151 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event152 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event153 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event154 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event155 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event156 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event157 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event158 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event159 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event160 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event161 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event162 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event163 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event164 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event165 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event166 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event167 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event168 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event169 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event170 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event171 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event172 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event173 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event174 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event175 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event176 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event177 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event178 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event179 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event180 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event181 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event182 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event183 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event184 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event185 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event186 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event187 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event188 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event189 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event190 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event191 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event192 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event193 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event194 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event195 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event196 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event197 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event198 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event199 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event200 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event201 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event202 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event203 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event204 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event205 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event206 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event207 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event208 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event209 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event210 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event211 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event212 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event213 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event214 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event215 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event216 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event217 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event218 footstep -type footstep -param0 float 12 -flags 0x40
+end
+event event219 DS -param0 float 12 -flags 0x40
+end
+
+channel "Crt Frame" frame -blendGroup 11
+	info
+		0
+		8
+		9
+		17
+		18
+		26
+		27
+		35
+		36
+		44
+		45
+		53
+		54
+		62
+		63
+		71
+		72
+		80
+		81
+		85
+		90
+		97
+		101
+		106
+		112
+		116
+		121
+		127
+		131
+		136
+		142
+		146
+		150
+		191
+		192
+		200
+		201
+		209
+		210
+		218
+		219
+		227
+		228
+		236
+		262
+		267
+		273
+		299
+		304
+		309
+		336
+		340
+		344
+		349
+		354
+		357
+		361
+		365
+	end
+	pos
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.5666068, -0, 0) -x 2 0 2 0
+		(-0.5666068, -0, 0) -x 2 0 2 0
+		(-0.9923498, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.9923498, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.5650668, -0, 0) -x 2 0 2 0
+		(-0.5666068, -0, 0) -x 2 0 2 0
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.5666068, -0, 0) -x 2 0 2 0
+		(-0.5666068, -0, 0) -x 2 0 2 0
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.4200945, -0, 0) -x 2 0 2 0
+		(0.4200945, -0, 0) -x 2 0 2 0
+		(0.7866827, -0, 0) -x 2 0 2 0
+		(0.7866827, -0, 0) -x 2 0 2 0
+		(0.4200945, -0, 0) -x 2 0 2 0
+		(0.4200945, -0, 0) -x 2 0 2 0 -z 2 0 2 0
+		(0.2100795, -0, 0.1267966)
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0000645, -0, 0) -z 2 0 2 0
+		(0.0000648, -0, 0.1164754)
+		(0.0000645, -0, 0) -z 2 0 2 0
+		(0.0000645, -0, 0) -x 2 0 2 0 -z 2 0 2 0
+		(0.0001553, -0, 0.1136583)
+		(0.0001553, -0, 0) -z 2 0 2 0
+		(0.0001553, -0, 0) -z 2 0 2 0
+		(0.0001553, -0, 0.1070892)
+		(0.0001553, -0, 0) -z 2 0 2 0
+		(0.0001553, -0, 0) -z 2 0 2 0
+		(0.0001553, -0, 0.1136583)
+		(0.0001553, -0, 0) -z 2 0 2 0
+		(0.0001553, -0, 0) -x 2 0 2 0
+		(0.0001553, -0, 0) -x 2 0 2 0
+		(0.5581501, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.5581501, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.9805973, -0, 0) -x 2 0 2 0
+		(0.9805973, -0, 0) -x 2 0 2 0
+		(1.5510796, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(1.544852, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.9781801, -0, 0) -x 2 0 2 0
+		(0.9781801, -0, 0) -x 2 0 2 0
+		(0.6039627, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.6019761, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.3077135, -0, 0.1113984)
+		(-0.0002344, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0002344, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.3008709, -0, 0.126267)
+		(0.6019761, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.6019761, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.3473215, -0, 0.1022534)
+		(0.0000645, -0, 0) -z 2 0 2 0
+		(0.0000645, -0, 0)
+		(0.0000645, -0, 0)
+		(0.0000645, -0, 0)
+		(0.0000645, -0, 0)
+		(0.0000645, -0, 0) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 1)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0, -0.0004356, -0.0000497, 0.9999999)
+		(-0.0000229, -0.0004329, -0.0000387, 0.9999999)
+		(-0.0000406, -0.0004309, -0.0000301, 0.9999999) -rot 2 2
+		(-0.0002103, -0.0003784, 0.4109987, 0.9116358)
+		(-0.0004064, -0.0001504, 0.9999999, 0.0000498)
+		(0.000185, -0.0003923, -0.7094323, 0.7047734)
+		(0.0001214, -0.0004292, -0.1450695, 0.9894214)
+		(-0, -0.0004356, -0.0000497, 0.9999999) -rot 2 2
+	end
+end
+
+channel root root -blendGroup 0
+	info
+		0 -flags 0x2
+		4 -flags 0x2
+		8 -flags 0x2
+		10 -flags 0x2
+		13 -flags 0x2
+		17 -flags 0x2
+		19 -flags 0x2
+		22 -flags 0x2
+		26 -flags 0x2
+		28 -flags 0x2
+		31 -flags 0x2
+		35 -flags 0x2
+		37 -flags 0x2
+		40 -flags 0x2
+		44 -flags 0x2
+		46 -flags 0x2
+		49 -flags 0x2
+		53 -flags 0x2
+		55 -flags 0x2
+		58 -flags 0x2
+		62 -flags 0x2
+		64 -flags 0x2
+		67 -flags 0x2
+		71 -flags 0x2
+		73 -flags 0x2
+		76 -flags 0x2
+		80 -flags 0x2
+		82 -flags 0x2
+		85 -flags 0x2
+		87 -flags 0x2
+		91 -flags 0x2
+		94 -flags 0x2
+		98 -flags 0x2
+		100 -flags 0x2
+		102 -flags 0x2
+		104 -flags 0x2
+		106 -flags 0x2
+		109 -flags 0x2
+		113 -flags 0x2
+		115 -flags 0x2
+		117 -flags 0x2
+		119 -flags 0x2
+		121 -flags 0x2
+		124 -flags 0x2
+		128 -flags 0x2
+		130 -flags 0x2
+		132 -flags 0x2
+		134 -flags 0x2
+		136 -flags 0x2
+		139 -flags 0x2
+		143 -flags 0x2
+		145 -flags 0x2
+		147 -flags 0x2
+		149 -flags 0x2
+		151 -flags 0x2
+		155 -flags 0x2
+		159 -flags 0x2
+		163 -flags 0x2
+		167 -flags 0x2
+		171 -flags 0x2
+		175 -flags 0x2
+		179 -flags 0x2
+		183 -flags 0x2
+		187 -flags 0x2
+		191 -flags 0x2
+		196 -flags 0x2
+		200 -flags 0x2
+		205 -flags 0x2
+		209 -flags 0x2
+		214 -flags 0x2
+		218 -flags 0x2
+		223 -flags 0x2
+		227 -flags 0x2
+		232 -flags 0x2
+		236 -flags 0x2
+		241 -flags 0x2
+		245 -flags 0x2
+		247 -flags 0x2
+		250 -flags 0x2
+		254 -flags 0x2
+		256 -flags 0x2
+		259 -flags 0x2
+		262 -flags 0x2
+		264 -flags 0x2
+		268 -flags 0x2
+		270 -flags 0x2
+		272 -flags 0x2
+		274 -flags 0x2
+		277 -flags 0x2
+		281 -flags 0x2
+		283 -flags 0x2
+		286 -flags 0x2
+		290 -flags 0x2
+		292 -flags 0x2
+		295 -flags 0x2
+		299 -flags 0x2
+		301 -flags 0x2
+		304 -flags 0x2
+		306 -flags 0x2
+		308 -flags 0x2
+		310 -flags 0x2
+		313 -flags 0x2
+		317 -flags 0x2
+		319 -flags 0x2
+		322 -flags 0x2
+		326 -flags 0x2
+		328 -flags 0x2
+		331 -flags 0x2
+		335 -flags 0x2
+		337 -flags 0x2
+		340 -flags 0x2
+		342 -flags 0x2
+		345 -flags 0x2
+		348 -flags 0x2
+		351 -flags 0x2
+		357 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(0, 0, -0.0505377) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0149803, -0.0000139, -0.0042693)
+		(0.0342299, -0.0000293, -0.050349)
+		(-0.0235189, -0.0000293, -0.050349)
+		(-0.0652263, -0.0000417, -0.0171023)
+		(-0.1225315, -0.0142176, -0.1151955)
+		(-0.1261833, -0.0142176, -0.1151955)
+		(-0.1005172, -0.0000139, -0.0106858)
+		(-0.0267271, -0.0000293, -0.050349)
+		(0.0085638, -0.0000293, -0.050349)
+		(0.0374381, -0.0000417, -0.0174697)
+		(0.0887703, -0.0204455, -0.0979459) -y 2 0 2 0
+		(0.1016034, -0.0204455, -0.0979459)
+		(0.0791455, -0.0000139, -0.0106858)
+		(0.0246051, -0.0000293, -0.050349)
+		(-0.0363519, -0.0000292, -0.0503491)
+		(-0.1197667, -0.0000417, -0.0033097)
+		(-0.1422246, 0, -0.0505377) -y 2 0 2 0 -z 2 0 2 0
+		(-0.0844758, -0.0000504, -0.0502124)
+		(-0.049185, -0.0000139, -0.0147049)
+		(-0.0363519, -0.0000293, -0.050349)
+		(-0.0284363, -0.0000293, -0.050349)
+		(0.0149803, -0.0000417, -0.0033097)
+		(0.072729, -0.0204455, -0.079978) -y 2 0 2 0
+		(0.0983951, -0.0204455, -0.0979459) -y 2 0 2 0
+		(0.0958798, -0.0000139, -0.025764)
+		(0.0404157, -0.0000293, -0.0774333)
+		(0.0040771, -0.0000293, -0.0939736)
+		(-0.0226986, -0.0000417, -0.0119401)
+		(-0.0413559, -0.000014, -0.003638)
+		(-0.0617062, 0.0000353, -0.0707555)
+		(-0.014602, 0.0000453, -0.0110528)
+		(0.150176, 0.0000518, -0.0642545)
+		(0.1569604, 0.0007302, -0.053259)
+		(0.1352178, 0.0000433, -0.0012209)
+		(0.1213266, -0.0059605, -0.0163613)
+		(0.0964404, -0.0108717, -0.0675904)
+		(-0.0123538, -0.0058444, -0.0175669)
+		(-0.0944428, 0.0000415, -0.091997)
+		(-0.1036253, 0.0004091, -0.0736163)
+		(-0.0923834, 0.0000402, 0.003996)
+		(-0.0557365, 0.0000063, -0.018906)
+		(-0.0110777, 0.0000353, -0.0707555)
+		(0.0716715, 0.0000453, -0.0110528)
+		(0.150176, 0.0000518, -0.0642545)
+		(0.1509072, 0.0006733, -0.0481696)
+		(0.1352178, 0.0000433, -0.0012209)
+		(0.121831, -0.0059558, -0.015089)
+		(0.0964404, -0.0108717, -0.0675904)
+		(-0.0123538, -0.0058444, -0.0175669)
+		(-0.0944428, 0.0000415, -0.091997)
+		(-0.1036253, 0.0004091, -0.072344)
+		(-0.0923834, 0.0000402, -0.0049103)
+		(-0.0510304, 0.0024822, -0.0138166)
+		(-0.0110777, 0.0000353, -0.0707555)
+		(0.0198113, -0.0395689, -0.0136776)
+		(0.0374633, -0.0861398, -0.0737003)
+		(0.0731052, -0.0469779, -0.0129546)
+		(0.0964404, -0.0108717, -0.0675904)
+		(0.0616088, -0.0490947, -0.0258093)
+		(0.0374633, -0.0861398, -0.0737003)
+		(0.0086096, -0.0349214, -0.01905)
+		(-0.0110777, 0.0000353, -0.0707555)
+		(-0.0263452, -0.0000139, 0.0076982)
+		(-0.0517887, -0.0000293, -0.050349)
+		(-0.0635319, -0.0000417, 0.0157077)
+		(-0.0596175, 0, -0.0505377) -y 2 0 2 0 -z 2 0 2 0
+		(-0.0478743, -0.0000139, -0.0067467)
+		(-0.0302596, -0.0000293, -0.050349)
+		(0.0127987, -0.0000417, 0.0157077)
+		(0.0617285, -0.0204455, -0.0979459) -y 2 0 2 0
+		(0.0852148, 0.0175891, -0.0067467)
+		(0.0734716, -0.0000293, -0.050349)
+		(0.0206274, -0.0093708, 0.0157077)
+		(-0.0126449, 0, -0.0855604) -y 2 0 2 0
+		(-0.0204736, 0.0197459, 0.0286604)
+		(0, 0, -0.0855604) -x 2 0 2 0
+		(0.0000301, -0.0266252, -0.033932)
+		(0.000075, 0.0078835, 0.0286604)
+		(0, 0.0078835, -0.0855604) -x 2 0 2 0
+		(0.0000301, -0.0266252, -0.033932)
+		(0.000075, 0, 0.0286604)
+		(0, 0.0089619, -0.1059142) -x 2 0 2 0
+		(0.0133572, -0.0453029, -0.0920405)
+		(0.0203644, 0, 0.0286604)
+		(0.0007208, 0.0105758, 0.0061774)
+		(-0.023288, 0.0089619, -0.0855604)
+		(-0.0309272, -0.0266252, -0.0658491)
+		(-0.0156488, 0, 0.0286604)
+		(0, 0.0089619, -0.0855604) -x 2 0 2 0
+		(0.0000301, -0.0266252, -0.033932)
+		(0.000075, 0, 0.0286604)
+		(0, 0.0089619, -0.0855604) -x 2 0 2 0
+		(0.0000301, -0.0266252, -0.033932)
+		(0.000075, 0, 0.0286604)
+		(-0.0385663, 0.0089619, -0.0855604)
+		(-0.0451142, -0.0266252, -0.0593012)
+		(-0.005827, 0, 0.0286604)
+		(0.0149078, 0.0092417, 0.0138165)
+		(0.025821, 0.0089619, -0.0541195)
+		(0.0214557, -0.0266252, -0.0680317)
+		(0.000075, 0, 0.0286604)
+		(0, 0.0089619, -0.0855604) -x 2 0 2 0
+		(0.0000301, -0.0266252, -0.033932)
+		(0.000075, 0, 0.0286604)
+		(0, 0.0089619, -0.0855604) -x 2 0 2 0
+		(0.0000301, -0.0266252, -0.033932)
+		(0.000075, 0, 0.0286604)
+		(0.0105426, 0.0089619, -0.0855604)
+		(0.0269951, -0.0469469, -0.0741109)
+		(0.0206505, -0.000983, 0.0317276)
+		(0.0152847, -0.0039707, 0.0222493)
+		(0.0069969, -0.022222, -0.0800361)
+		(-0.0000181, -0.0387019, -0.1127754)
+		(-0.0000189, -0.0387019, -0.1021424)
+		(-0.0000189, -0.0387019, -0.087481)
+		(0, 0, -0.0505377) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(0, 0, 0, 1)
+		(0, 0, -0.042282, 0.9991057)
+		(-0.0013239, -0.0187498, -0.0704201, 0.9973403)
+		(-0.0016548, -0.0234365, -0.0704131, 0.9972412)
+		(0.0090174, -0.0209213, -0.0720764, 0.997139)
+		(0.0322884, 0.0272499, 0.1463946, 0.9883236)
+		(0.0322884, 0.0272499, 0.1463946, 0.9883236)
+		(0, 0, 0.1125465, 0.9936464)
+		(0, 0, 0.0469767, 0.998896)
+		(0, 0, 0.0305413, 0.9995335)
+		(0, 0, 0, 1)
+		(0.001409, -0.0301435, -0.1514807, 0.9879996)
+		(0.001409, -0.0301435, -0.1514807, 0.9879996)
+		(0, 0, -0.1078758, 0.9941643)
+		(0, 0, 0, 1)
+		(0, 0, 0.042282, 0.9991057)
+		(0, 0, 0.0821468, 0.9966202)
+		(0, 0, 0.0821468, 0.9966202)
+		(0, 0, 0.0821468, 0.9966202)
+		(0, 0, 0.0727762, 0.9973483)
+		(0, 0, 0.0399342, 0.9992023)
+		(0, 0, 0.0305413, 0.9995335)
+		(0, 0, 0, 1)
+		(0.001409, -0.0301435, -0.1514807, 0.9879996)
+		(0.001409, -0.0301435, -0.1514807, 0.9879996)
+		(0, 0, -0.1125465, 0.9936464)
+		(0, 0, -0.0563629, 0.9984103)
+		(0, 0, -0.0446294, 0.9990036)
+		(0, 0, -0.0234948, 0.999724)
+		(-0.0071397, 0.022994, 0.0751783, 0.9968794)
+		(-0.0212902, 0.0535405, 0.2070795, 0.976626)
+		(-0.0421503, 0.0162061, 0.1202641, 0.9917143)
+		(-0.0507513, -0.053035, -0.1871813, 0.9795789)
+		(-0.0490505, -0.0548005, -0.1942593, 0.9781893)
+		(-0.0453183, -0.0495946, -0.1755734, 0.9821714)
+		(-0.042217, -0.0492914, -0.1752053, 0.9823906)
+		(-0.038969, -0.0427987, -0.1515495, 0.9867535)
+		(-0.0330961, 0.012654, 0.0559514, 0.9978046)
+		(-0.023668, 0.0595201, 0.2302068, 0.9710314)
+		(-0.0228651, 0.0619347, 0.2391054, 0.9687466)
+		(-0.023076, 0.0580314, 0.2244489, 0.9724827)
+		(-0.0209876, 0.0590316, 0.2276966, 0.9717145)
+		(-0.0212902, 0.0535405, 0.2070795, 0.976626)
+		(-0.0399275, -0.0033235, -0.0025519, 0.9991938)
+		(-0.0507513, -0.053035, -0.1871813, 0.9795789)
+		(-0.0493272, -0.0551528, -0.1955177, 0.9779049)
+		(-0.0453183, -0.0495946, -0.1755734, 0.9821714)
+		(-0.0421996, -0.0492693, -0.1751263, 0.9824065)
+		(-0.038969, -0.0427987, -0.1515495, 0.9867535)
+		(-0.0330961, 0.012654, 0.0559514, 0.9978046)
+		(-0.023668, 0.0595201, 0.2302068, 0.9710314)
+		(-0.0228651, 0.0619347, 0.2391054, 0.9687466)
+		(-0.023076, 0.0580314, 0.2244489, 0.9724827)
+		(-0.0224525, 0.0547083, 0.2194564, 0.9738285)
+		(-0.0212902, 0.0535405, 0.2070795, 0.976626)
+		(-0.0171246, 0.066694, 0.1327349, 0.9887568)
+		(0.0928506, -0.0083235, 0.0392267, 0.9948723)
+		(-0.0279666, 0.0117468, -0.0586557, 0.9978173)
+		(-0.038969, -0.0427987, -0.1515495, 0.9867535)
+		(0.0329414, -0.026274, -0.0541369, 0.9976441)
+		(0.0928506, -0.0083235, 0.0392267, 0.9948723)
+		(0.0347345, 0.0260572, 0.1367515, 0.9896532)
+		(-0.0212902, 0.0535405, 0.2070795, 0.976626)
+		(-0.0043079, 0.0397012, 0.1077897, 0.9933713)
+		(0, 0, 0, 1)
+		(0, 0, 0.1162483, 0.9932202)
+		(0, 0, 0.1347425, 0.9908806)
+		(0, 0, 0.060549, 0.9981652)
+		(0, 0, 0.0209706, 0.9997801)
+		(0, 0, -0.0535697, 0.9985641)
+		(0.001409, -0.0301435, -0.1514807, 0.9879996)
+		(0, 0, -0.1508867, 0.988551)
+		(0, 0, -0.1093022, 0.9940085)
+		(0, 0, -0.0512427, 0.9986863)
+		(0, 0, -0.0256298, 0.9996715)
+		(0, 0, 0, 1)
+		(-0.0233002, 0, 0, 0.9997285)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.04426, 0, 0, 0.99902)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.0577886, -0.0182936, -0.0717693, 0.9955778)
+		(-0.0975999, -0.0402639, -0.1683574, 0.9800556)
+		(0, 0, 0, 1)
+		(-0.009064, 0.0025322, 0.0105881, 0.9998997)
+		(-0.0349464, 0, 0, 0.9993892)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.0349464, 0, 0, 0.9993892)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.0349464, 0, 0, 0.9993892)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.0483185, 0.0138706, 0.0433105, 0.9977962)
+		(-0.0714921, 0.0309832, 0.1259729, 0.988969)
+		(-0.002994, 0.0187622, 0.0570929, 0.9981881)
+		(-0.0107277, -0, 0, 0.9999425)
+		(-0.0349464, 0, 0, 0.9993892)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.0349464, 0, 0, 0.9993892)
+		(-0.071416, 0, -0, 0.9974467)
+		(0, 0, 0, 1)
+		(-0.0349464, 0, 0, 0.9993892)
+		(-0.0714003, 0.0015007, -0.0209604, 0.9972264)
+		(0, 0, -0.090942, 0.9958562)
+		(-0.0260571, -0.0325874, -0.1885575, 0.9811754)
+		(-0.0180178, -0.0609056, -0.2165113, 0.9742119)
+		(-0.0016879, -0.0672314, -0.1731822, 0.982591)
+		(0.0363526, -0.069739, -0.2146233, 0.9735254)
+		(0.102914, -0.073633, -0.2982288, 0.9460689)
+		(0.1560928, -0.0848776, -0.361215, 0.9153987)
+		(0.1946456, 0, 0, 0.9808736)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+	end
+	rigblock Scale -relative -scaleMode LimbLength
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+	end
+end
+
+channel Head mout -blendGroup 1
+	info
+		0
+		5
+		9
+		14
+		18
+		23
+		27
+		32
+		36
+		41
+		45
+		50
+		54
+		59
+		63
+		68
+		72
+		77
+		81
+		86
+		90
+		94
+		98
+		102
+		106
+		113
+		117
+		121
+		128
+		132
+		136
+		139
+		143
+		147
+		151
+		155
+		159
+		163
+		167
+		171
+		175
+		179
+		183
+		187
+		192
+		197
+		201
+		206
+		210
+		213
+		215
+		219
+		224
+		228
+		233
+		237
+		242
+		246
+		248
+		251
+		255
+		257
+		260
+		263
+		265
+		269
+		273
+		275
+		278
+		282
+		284
+		287
+		291
+		293
+		296
+		300
+		302
+		305
+		309
+		311
+		314
+		318
+		320
+		323
+		327
+		329
+		332
+		336
+		341
+		345
+		348
+		351
+		357
+		365
+	end
+	pos -relative -scaleMode CreatureSize -flags 0x200
+		(0, 0, -0.0466125) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0365906, -0.0000111, 0.0166337)
+		(0.0060037, -0.000027, -0.0464385)
+		(-0.0691783, -0.0000111, -0.0212275)
+		(-0.1141253, -0.0271855, -0.1485659)
+		(-0.0666874, -0.0473239, -0.0435848)
+		(0.0137281, -0.0348147, -0.0768974)
+		(0.0797552, -0.0289954, -0.0238168)
+		(0.1134161, -0.0225221, -0.1259766) -y 3 3
+		(0.1263626, -0.0000111, -0.0367633)
+		(0.0616301, -0.000027, -0.0464385)
+		(-0.1259872, 0.0066563, 0.021152)
+		(-0.1493978, 0, -0.0147542) -y 2 0 2 0
+		(-0.0781921, -0.0000111, 0.0166337)
+		(-0.0458258, -0.000027, -0.0464385)
+		(-0.0134596, -0.0000111, 0.0136399)
+		(0.017612, -0.0029529, -0.08596) -y 2 0 2 0
+		(0.0706927, -0.0000111, -0.0188735)
+		(0.043505, -0.000027, -0.0686)
+		(0.038349, -0.0135169, 0.0166337)
+		(0.0284562, -0.0598857, -0.0870182)
+		(-0.0126449, -0.067398, -0.0479183)
+		(-0.0028589, -0.0603721, -0.1480571)
+		(-0.002305, -0.0127497, -0.0686745)
+		(-0.0824891, -0.0523474, -0.1380209)
+		(-0.0120586, -0.0258204, -0.1179855)
+		(0.0183811, -0.0477643, -0.0455301)
+		(0.0990049, -0.0598857, -0.1363881)
+		(0.0241517, -0.0603721, -0.1480571)
+		(-0.002305, -0.0127497, -0.0686745)
+		(-0.0824891, -0.0523474, -0.1380209)
+		(-0.0623744, -0.0433768, -0.1393575)
+		(-0.010016, -0.0509606, -0.153518)
+		(0.0183811, -0.0477643, -0.1068345)
+		(0.0990049, -0.0598857, -0.1049474)
+		(0.0872581, -0.0883615, -0.0501839)
+		(0.077386, -0.1326967, -0.0948469)
+		(0.0323706, -0.0797407, -0.0741328)
+		(-0.014602, -0.0523474, -0.1380209)
+		(0.0049699, -0.089593, -0.1056029)
+		(0.0377378, -0.1376228, -0.161022)
+		(0.0747662, -0.07895, -0.0321191)
+		(0.0990049, -0.0598857, -0.085061)
+		(0.0323706, -0.0000111, -0.0106877)
+		(-0.0283024, -0.000027, -0.0464385)
+		(-0.0461657, -0.0000111, -0.0165592)
+		(-0.0559516, 0, -0.0466125) -x 2 0 2 0 -y 2 0 2 0
+		(-0.0517303, -0.0000111, 0.004868)
+		(-0.0450342, -0.000027, -0.0020331)
+		(-0.0557419, 0.0164933, 0.0717888)
+		(-0.0435484, -0.0000111, 0.0676054)
+		(-0.0114075, -0.0003595, -0.0234604) -y 2 0 2 0
+		(0.0463032, -0.0000111, 0.0006453)
+		(0.0674127, -0.000027, -0.027478)
+		(0.0521747, -0.0103402, 0.0166337)
+		(0.0229686, -0.0262495, -0.026555) -y 2 0 2 0
+		(0.0000965, -0.0072308, 0.0229686)
+		(0, 0, -0.026555) -x 2 0 2 0 -y 2 0 2 0
+		(0.000034, -0.0310042, -0.0091227)
+		(0.0000965, -0.0286268, 0.0229686)
+		(0, -0.0064383, -0.026555) -x 2 0 2 0
+		(0.000028, -0.0357589, -0.0122049)
+		(-0.0254706, -0.0294193, 0.0229686)
+		(-0.0763769, -0.0274561, -0.0317228) -y 2 0 2 0
+		(-0.0876753, -0.0506778, -0.0342011)
+		(-0.0303037, -0.0262741, 0.0204547)
+		(0, -0.0064383, -0.026555) -x 2 0 2 0
+		(0.000028, -0.0357589, -0.0122049)
+		(0.0000965, -0.0294193, 0.0229686)
+		(0, -0.0088157, -0.026555) -x 2 0 2 0 -y 2 0 2 0
+		(0.000034, -0.0373438, -0.0091227)
+		(0.0000965, -0.0294193, 0.0229686)
+		(0, -0.0064383, -0.026555) -x 2 0 2 0
+		(0.000028, -0.0357589, -0.0122049)
+		(0.0000965, -0.0294193, 0.0229686)
+		(0.0334601, -0.0325935, -0.0507536) -y 2 0 2 0
+		(0.054195, -0.0474245, -0.0121597)
+		(0.0520124, -0.0367921, 0.0170025)
+		(0, -0.0064383, -0.026555) -x 2 0 2 0
+		(0.000028, -0.0357589, -0.0122049)
+		(0.0000965, -0.0294193, 0.0229686)
+		(0, -0.0088157, -0.026555) -x 2 0 2 0 -y 2 0 2 0
+		(0.000034, -0.0373438, -0.0091227)
+		(0.0000965, -0.0294193, 0.0229686)
+		(0, -0.0088157, -0.026555) -x 2 0 2 0 -y 2 0 2 0
+		(-0.0199893, -0.0373438, -0.0091227)
+		(-0.065477, -0.0294193, 0.0229686)
+		(-0.1337085, -0.0427331, -0.0908753) -y 2 0 2 0
+		(-0.1661997, -0.0817226, -0.0045917)
+		(-0.2765102, -0.2484188, -0.2411384)
+		(-0.2994137, -0.2604243, -0.3156593)
+		(-0.2246839, -0.2084383, -0.2929155)
+		(-0.0321159, -0.0782479, -0.1013139)
+		(0, 0, -0.0466125) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(0.0612274, -0.0244794, -0.0840577, 0.9942768)
+		(0.0031158, -0.0773436, 0.0005898, 0.9969995)
+		(0.0391061, 0.0447715, 0.1209532, 0.9908767)
+		(0.0619005, 0.1044744, 0.2111274, 0.9698859)
+		(0.0035775, 0.0790083, 0.1019652, 0.9916391)
+		(0.0156303, 0.0702754, 0.1106648, 0.9912469)
+		(0.0756098, 0.0950249, 0.076471, 0.9896492)
+		(-0.0457991, 0.0976562, -0.0229286, 0.9939014)
+		(-0.0993838, -0.0267241, -0.1281069, 0.9864063)
+		(-0.0612765, -0.0219373, -0.10463, 0.9923792)
+		(-0.0562495, 0.0035734, -0.0632985, 0.9964018)
+		(-0.1078758, 0, 0, 0.9941643)
+		(-0.0493236, 0, 0, 0.9987829)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(-0.1095824, 0, 0, 0.9939778)
+		(0, 0, 0, 1)
+		(0.0076821, -0, -0, 0.9999706)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(0.046902, 0.0026477, 0.0563007, 0.9973081)
+		(0.1734138, -0.016386, 0.2316365, 0.9570809)
+		(0.1556858, -0.0261785, 0.2455827, 0.9564338)
+		(0.0321408, -0.0235659, 0.152802, 0.9874529)
+		(0, 0, 0, 1)
+		(0.0868293, 0, 0, 0.9962232)
+		(0.0961887, 0, 0, 0.9953631)
+		(0.180288, 0.0705019, 0.1279344, 0.9727069)
+		(0.1938, 0.0916503, 0.1669265, 0.9623811)
+		(0.2590187, -0.0015475, 0.0766821, 0.9628223)
+		(0.1868708, 0, 0, 0.9823845)
+		(0.1055395, 0, 0, 0.9944151)
+		(0.0774067, 0, 0, 0.9969996)
+		(0.1125465, 0, 0, 0.9936464)
+		(0.3104596, 0, 0, 0.9505866)
+		(0.3321998, 0, 0, 0.9432091)
+		(0.2995275, 0, 0, 0.9540877)
+		(0.1882755, 0, 0, 0.9821163)
+		(0.0745452, 0, 0, 0.9972177)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(-0.0258252, 0, 0, 0.9996665)
+		(-0.1108944, -0.0315117, -0.1336448, 0.984301)
+		(-0.2099924, -0.0504284, -0.2130211, 0.952881)
+		(-0.2612001, -0.0606257, -0.2478827, 0.9309421)
+		(-0.2544313, -0.0736568, -0.2346524, 0.9352955)
+		(-0.1952382, -0.0259962, -0.1446534, 0.9696812)
+		(-0.0790914, -0.0257153, -0.0633162, 0.9945222)
+		(0, 0, 0, 1)
+		(-0.090942, 0, 0, 0.9958562)
+		(-0.090942, 0, 0, 0.9958562)
+		(-0.090942, 0, 0, 0.9958562)
+		(0, 0, 0, 1)
+		(0, 0, 0, 1)
+		(-0.092219, 0, 0, 0.9957388)
+		(-0.0372751, 0, 0, 0.999305)
+		(0, 0, 0, 1)
+		(-0.0308377, -0.0422209, -0.1432176, 0.9883092)
+		(0.0530054, -0.0374319, -0.1020731, 0.9926583)
+		(-0.0004565, -0.0410414, -0.1282744, 0.9908891)
+		(-0.092219, 0, 0, 0.9957388)
+		(-0.0372751, 0, 0, 0.999305)
+		(0, 0, 0, 1)
+		(0.0533917, 0.0063886, 0.1186355, 0.9914808)
+		(0.0964181, 0.0170605, 0.1733992, 0.9799721)
+		(0.1328797, 0.0235121, 0.1726427, 0.975697)
+		(0.0426888, 0.0051079, 0.1186976, 0.9919992)
+		(-0.0372751, 0, 0, 0.999305)
+		(0, 0, 0, 1)
+		(-0.0481522, 0.0516813, 0.1545221, 0.9854611)
+		(-0.0535202, 0.0662488, 0.1406314, 0.9863922)
+		(0.0085465, 0.0731819, 0.1522939, 0.9855851)
+		(-0.0921624, -0.0032294, 0.0348697, 0.995128)
+		(-0.0372751, 0, 0, 0.999305)
+		(0, 0, -0.052515, 0.9986202)
+		(-0.0812036, 0.0065559, -0.0802054, 0.9934435)
+		(-0.0372237, 0.0019575, -0.0524785, 0.9979261)
+		(0, 0, 0, 1)
+		(-0.0814678, -0, -0, 0.996676)
+		(-0.0372751, 0, 0, 0.999305)
+		(0, 0, -0.0979159, 0.9951947)
+		(0.0704183, -0.0822767, -0.2757825, 0.9550999)
+		(0.0246711, -0.0503675, -0.1468733, 0.9875641)
+		(0.3663487, -0.2135643, -0.3132341, 0.8497431)
+		(0.3071107, -0.1869708, -0.3427023, 0.8679171)
+		(0.4260162, -0, -0, 0.9047157)
+		(0.1342807, -0, -0, 0.9909433)
+		(0, 0, 0, 1)
+	end
+end
+
+channel "R hand" grsp -selectX right -blendGroup 2
+	info
+		0
+		4
+		6
+		10
+		13
+		17
+		21
+		25
+		28
+		33
+		36
+		40
+		44
+		49
+		55
+		59
+		63
+		66
+		68
+		70
+		72
+		76
+		81
+		85
+		90
+		94
+		101
+		107
+		113
+		119
+		128
+		136
+		143
+		151
+		159
+		167
+		171
+		179
+		188
+		192
+		200
+		209
+		214
+		218
+		223
+		228
+		232
+		236
+		240
+		245
+		250
+		254
+		259
+		263
+		268
+		275
+		280
+		287
+		293
+		299
+		304
+		308
+		311
+		316
+		319
+		322
+		326
+		331
+		335
+		340
+		344
+		352
+		355
+		365
+	end
+	pos -relative -scaleMode CreatureSize -flags 0x200
+		(-0.0797737, -0.1134759, 0.1151416)
+		(-0.1504025, -0.0697082, 0.1958101)
+		(-0.1385908, -0.1024127, 0.1825778)
+		(-0.0742052, -0.2013341, 0.0616275)
+		(-0.0270531, -0.2670416, 0.0185253)
+		(0.0288419, -0.3346538, 0.0302804)
+		(0.0503087, -0.3128364, 0.0849519)
+		(0.058498, -0.25137, 0.0672159)
+		(0.0484423, -0.1998762, 0.1008112)
+		(-0.0293156, -0.111413, 0.2066075)
+		(-0.0723745, -0.0672834, 0.3319956)
+		(-0.0866958, -0.0570969, 0.4221184)
+		(-0.1550141, -0.0532117, 0.3515875)
+		(-0.2283326, -0.0480938, 0.3750978)
+		(-0.171084, -0.0314067, 0.2497097)
+		(-0.0713054, 0.024685, 0.1164848)
+		(-0.0559239, 0.0532526, 0.0887377)
+		(-0.0833526, -0.1031603, 0.0887377)
+		(0.229078, -0.267674, 0.0532045)
+		(0.3167439, -0.2900927, 0.0338001)
+		(0.2955481, -0.2509368, 0.0270416)
+		(0.1752604, -0.12605, 0.0157388)
+		(0.0498025, -0.1340331, 0.0716666)
+		(0.0365605, -0.2020943, 0.0600168)
+		(0.0335875, -0.2609067, 0.0479554)
+		(0.0018162, -0.219364, 0.0802642)
+		(-0.05594, -0.0736685, 0.221519)
+		(-0.1070173, -0.0192662, 0.3132557)
+		(-0.0797737, -0.1134759, 0.1151416)
+		(-0.009553, -0.1537644, 0.1066673)
+		(0.0518855, -0.1221785, 0.1712881)
+		(-0.0140375, -0.0753379, 0.2340361)
+		(-0.0813184, -0.1834292, 0.2810567)
+		(-0.1313553, -0.2963574, 0.2693015)
+		(-0.004985, -0.2400878, 0.1008112)
+		(0.0873984, -0.188304, 0.062939)
+		(0.0260599, -0.1769735, 0.0843937)
+		(-0.0354856, -0.1754895, 0.1115295)
+		(0.047547, -0.2118949, 0.1358311)
+		(-0.033282, -0.1872965, 0.1172578)
+		(-0.2467425, -0.1121083, 0.0800034)
+		(-0.2679055, -0.0550759, 0.1696277)
+		(-0.0163651, -0.0719112, 0.1306199)
+		(0.139995, -0.1033512, 0.0985676)
+		(0.2493072, -0.2438715, 0.0644896)
+		(0.0910064, -0.2307944, 0.0402991)
+		(-0.0167401, -0.1416861, 0.0789087)
+		(-0.0715974, -0.1134759, 0.1556686)
+		(-0.1107812, -0.0866759, 0.1987707)
+		(-0.1234282, -0.0714773, 0.2066148)
+		(-0.1278626, -0.0627372, 0.2395399)
+		(-0.1359177, -0.058447, 0.222281)
+		(-0.146229, -0.0542639, 0.253628)
+		(-0.1278626, -0.0627372, 0.2395399)
+		(-0.0010666, -0.1337015, 0.1225423)
+		(-0.0527837, -0.1407569, 0.0641273)
+		(-0.0589544, -0.1411658, 0.0602138)
+		(0.0498723, -0.1717518, 0.0566344)
+		(0.0341988, -0.155086, 0.0644574)
+		(-0.0360071, -0.1620624, 0.0210933)
+		(-0.0647255, -0.1508175, 0.0274888)
+		(-0.0797737, -0.1134759, 0.1151416)
+		(-0.0696419, -0.1068849, 0.1598183)
+		(-0.043288, -0.1051577, 0.2256498)
+		(-0.0483052, -0.1101805, 0.1978224)
+		(-0.0567278, -0.1163958, 0.2158507)
+		(-0.070731, -0.1278709, 0.1873899)
+		(-0.0919823, -0.1473353, 0.212953)
+		(-0.1084064, -0.1620113, 0.1656712)
+		(-0.0797737, -0.1134759, 0.1151416)
+		(0.1804269, 0.2483966, -0.0447875)
+		(0.1804269, 0.2483966, -0.0447875)
+		(0.0029505, -0.0489306, 0.043725)
+		(-0.0797737, -0.1134759, 0.1151416) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(0.2165032, -0.2808603, -0.1284668, -0.9261427)
+		(-0.1643383, 0.1547591, 0.2328608, 0.9459484)
+		(-0.23162, 0.2007798, 0.2290872, 0.9238824)
+		(0.4215701, -0.0957731, -0.192393, -0.8809604)
+		(0.1974959, 0.046772, -0.3948894, -0.8960302)
+		(0.3598478, 0.0922218, -0.5228566, -0.7672195)
+		(0.4604512, 0.1532858, -0.4266597, -0.763184)
+		(0.1754162, 0.2056496, -0.3072569, -0.9124312)
+		(0.1409368, 0.2213194, -0.2284884, -0.9375221)
+		(0.1463069, 0.0591302, -0.091519, -0.9832203)
+		(0.3084378, -0.1423318, 0.0195347, -0.9403331)
+		(0.501122, -0.2945557, 0.0611495, -0.8114029)
+		(0.4886164, -0.2853412, 0.0681342, -0.8217008)
+		(0.3117416, -0.1326381, 0.0414277, -0.9399511)
+		(0.3496836, -0.1632421, 0.0461965, -0.9213791)
+		(0.1499328, 0.015416, -0.0836718, -0.9850287)
+		(-0.0414273, 0.20235, -0.1852071, -0.960748)
+		(0.453949, 0.1455304, 0.1358191, -0.8685071)
+		(0.4559802, 0.1507702, 0.2900952, -0.8277653)
+		(-0.2220726, -0.3658394, -0.1616678, 0.8892182)
+		(-0.2193367, -0.39081, 0.0688374, 0.8913026)
+		(-0.0947356, -0.3580194, 0.2423333, 0.8967285)
+		(0.5180066, 0.1384923, -0.126469, -0.8345626)
+		(0.4781227, 0.099805, -0.2463641, -0.8371037)
+		(-0.1102281, -0.1164411, 0.389793, 0.9068367)
+		(0.0305682, -0.1459329, 0.330267, 0.9320371)
+		(-0.3541134, 0.1420579, 0.101164, 0.9187976)
+		(-0.3612516, 0.2384677, 0.1225664, 0.8930891)
+		(0.2165032, -0.2808603, -0.1284668, -0.9261427)
+		(-0.0121595, 0.0464466, -0.18241, -0.9820497)
+		(0.3262673, 0.0580831, -0.2448, -0.91118)
+		(0.3447544, 0.0303584, -0.2605835, -0.9012874)
+		(0.3382876, -0.176484, -0.1332275, -0.9146941)
+		(0.4679221, -0.2928528, -0.1435078, -0.8213962)
+		(-0.0269238, -0.1030281, -0.1277226, -0.9860767)
+		(0.243492, 0.1003576, -0.2660514, -0.9272847)
+		(0.1884308, 0.1296465, -0.284824, -0.9308925)
+		(-0.0269238, -0.1030281, -0.1277226, -0.9860767)
+		(0.2103399, -0.021109, -0.3570983, -0.909831)
+		(0.1943261, 0.1718582, -0.1244019, -0.9577193)
+		(0.232022, -0.2917853, -0.1280851, -0.9190329)
+		(0.1990435, -0.3476381, -0.0512129, -0.9148261)
+		(0.3470758, 0.0237575, -0.0034658, -0.9375297)
+		(0.2320204, 0.2992355, -0.3942223, -0.8373848)
+		(0.0775778, 0.3930373, -0.2055106, -0.8928991)
+		(0.2322546, 0.4798341, -0.2161698, -0.8179779)
+		(0.0360285, 0.1614973, -0.0662004, -0.9839909)
+		(0.0859601, 0.048975, -0.0197731, -0.9948977)
+		(0.2069871, -0.1695329, -0.0372058, -0.9628243)
+		(0.1689964, -0.2253962, -0.0688867, -0.9570222)
+		(-0.0464581, -0.1386039, -0.0947915, -0.9847057)
+		(0.1535027, -0.2829964, -0.1136741, -0.9399086)
+		(0.0026202, -0.2011669, -0.0923701, -0.9751887)
+		(0.0657271, -0.212878, -0.1044061, -0.9692587)
+		(0.0453401, 0.1366017, -0.1973819, -0.9697034)
+		(-0.2549178, 0.1081806, 0.0683835, 0.9584558)
+		(-0.0819286, 0.1716208, 0.0916786, 0.9774605)
+		(-0.2220905, 0.0827295, 0.2306216, 0.9437401)
+		(-0.199679, -0.0087272, 0.1517712, 0.9679967)
+		(-0.2534918, 0.0130352, 0.0554132, 0.965661)
+		(0.0067814, -0.1685708, -0.1088154, -0.9796414)
+		(0.2165032, -0.2808603, -0.1284668, -0.9261427)
+		(0.2366462, -0.1016288, -0.1904831, -0.9473048)
+		(0.421428, -0.1625409, -0.1524805, -0.8790498)
+		(0.4189229, -0.1786089, -0.1507901, -0.8774194)
+		(0.29922, -0.1366103, -0.1715692, -0.9286382)
+		(0.3687181, -0.2088595, -0.1607817, -0.8913888)
+		(0.2663466, -0.2110217, -0.1712151, -0.9247783)
+		(0.3788272, -0.2933369, -0.2192401, -0.8499277)
+		(0.1874974, -0.0860306, -0.0229504, -0.9782213)
+		(0.5890678, -0.3632433, -0.2233198, 0.6864268)
+		(0.5890678, -0.3632433, -0.2233198, 0.6864268)
+		(0.1388511, -0.2529863, -0.0396452, 0.956633)
+		(0.2165032, -0.2808603, -0.1284668, -0.9261427)
+	end
+	rigblock ClsdOpen
+		0.5000156
+		0.3602941
+		0.3970588
+		0.5588235
+		0.5882353
+		0.5
+		0.4338235
+		0.5000156
+		0.445288
+		0.3408377
+		0.4178011
+		0.7201571
+		0.6981676
+		0.5717278
+		0.7201571
+		0.5442409
+		0.375
+		0.5000156
+		0.9411765
+		1.0293138
+		0.9993337
+		0.4896735
+		0.4782723
+		0.6267017
+		0.5222514
+		0.4404993
+		0.4639636
+		0.6981676
+		0.6376964
+		0.5025092
+		0.6761781
+		0.632199
+		0.3188482
+		0.6541886
+		0.5000156
+		0.3958116
+		0.3408377
+		0.5000156
+		0.5000156
+		0.329843
+		0.7091624
+		0.6871728
+		0.5000156
+		0.3958116
+		0.5000156
+		0.6212043
+		0.5000156
+		0.6157069
+		0.7146598
+		0.6376964
+		0.5000156
+		0.6761781
+		0.5000156
+		0.6816755
+		0.5000156
+		0.3628273
+		0.7256545
+		0.7146598
+		0.5000156
+		0.6816755
+		0.6706807
+		0.5000156
+		0.505756
+		0.6651833
+		0.6541886
+		0.5223277
+		0.6816755
+		0.5376201
+		0.6981676
+		0.5000156
+		0.2003645
+		0.2003645
+		0.3129906
+		0.5000156 -value 2 0 2 0
+	end
+end
+
+channel "L hand" grsp -selectX left -blendGroup 3
+	info
+		0
+		9
+		16
+		20
+		23
+		25
+		31
+		36
+		44
+		52
+		63
+		66
+		68
+		70
+		72
+		77
+		90
+		97
+		102
+		107
+		113
+		119
+		123
+		128
+		133
+		139
+		143
+		151
+		155
+		159
+		163
+		169
+		175
+		183
+		189
+		197
+		203
+		211
+		214
+		219
+		223
+		228
+		232
+		236
+		245
+		250
+		254
+		256
+		259
+		262
+		265
+		268
+		271
+		275
+		277
+		280
+		284
+		290
+		295
+		299
+		304
+		310
+		315
+		318
+		326
+		333
+		338
+		342
+		346
+		354
+		357
+		365
+	end
+	pos -relative -scaleMode CreatureSize -flags 0x200
+		(0.0501531, -0.2147464, 0.0958909)
+		(-0.0077359, -0.1577909, 0.1376755)
+		(0.0426047, -0.087311, 0.2389223)
+		(0.0511493, -0.0863774, 0.2696059)
+		(0.0379098, -0.1235431, 0.1957177)
+		(0.0211639, -0.1543458, 0.1429587)
+		(-0.0609073, -0.2460769, 0.0664541)
+		(-0.1764214, -0.301731, 0.0156111)
+		(-0.0643378, -0.2907532, 0.0534251)
+		(-0.2228493, -0.2446579, 0.0774265)
+		(0.1752604, -0.1768617, 0.1112659)
+		(0.2144442, -0.2773671, 0.1112659)
+		(-0.1518454, -0.2712603, 0.036852)
+		(-0.2508885, -0.2469438, 0.0002062)
+		(-0.1107812, -0.208353, -0.0031896)
+		(0.0498723, -0.1229776, -0.0023889)
+		(0.1793321, -0.0084739, 0.2672746)
+		(0.163548, -0.0936539, 0.1610329)
+		(0.1631304, -0.1389763, 0.1438456)
+		(0.1749307, -0.1483544, 0.2091432)
+		(0.0501531, -0.2147464, 0.0958909)
+		(-0.060974, -0.1916174, 0.0182278)
+		(-0.0065477, -0.1315574, 0.0716841)
+		(0.2050445, -0.0770511, 0.1444897)
+		(0.2959719, -0.0847464, 0.1763258)
+		(0.0873473, -0.1990335, 0.0737021)
+		(0.0138371, -0.2147464, -0.0031502)
+		(0.185349, -0.1216883, 0.0871187)
+		(0.2428654, -0.1206063, 0.1421771)
+		(0.1826877, -0.1700331, 0.1429411)
+		(0.1210452, -0.2134505, 0.1093196)
+		(0.108186, -0.2285632, 0.0839181)
+		(0.1210452, -0.2134505, 0.1093196)
+		(0.1736321, -0.1663415, 0.1011626)
+		(0.0688044, -0.1865473, 0.1009664)
+		(-0.1512933, -0.2384118, 0.102491)
+		(-0.1496437, -0.2650418, 0.0327781)
+		(-0.0439199, -0.2255626, 0.0989075)
+		(0.0731391, -0.1791342, 0.1677052)
+		(0.2434197, -0.1130482, 0.2628231)
+		(0.309003, -0.1101689, 0.2294528)
+		(0.1743455, -0.2082569, 0.0839952)
+		(0.0512093, -0.220567, 0.0709551)
+		(0.0501531, -0.2147464, 0.0958909)
+		(0.1666117, -0.1909006, 0.2321332)
+		(0.1839754, -0.1878465, 0.2501106)
+		(0.1875141, -0.1875766, 0.2521317)
+		(0.1872163, -0.1877732, 0.2316056)
+		(0.1866769, -0.1881205, 0.2363669)
+		(0.1665895, -0.1909006, 0.2121326)
+		(0.0902398, -0.1998106, 0.1633233)
+		(0.0264085, -0.2081146, 0.1216766)
+		(-0.037125, -0.2414726, 0.0749917)
+		(-0.0269326, -0.21453, 0.1085445)
+		(0.0216796, -0.2083837, 0.1236897)
+		(0.1089664, -0.2048905, 0.1399796)
+		(0.1549265, -0.2116403, 0.1157613)
+		(0.1973018, -0.2097849, 0.1667234)
+		(0.1705496, -0.2128251, 0.1157613)
+		(0.0308245, -0.21453, 0.1085445)
+		(-0.0337275, -0.2088372, 0.054463)
+		(0.098774, -0.2117534, 0.0882989)
+		(0.1497449, -0.2391764, 0.1351792)
+		(0.0751143, -0.2261985, 0.1207941)
+		(-0.0609073, -0.1777686, 0.1497366)
+		(0.0037813, -0.2171911, 0.2004717)
+		(0.0501531, -0.2851406, 0.2108906)
+		(-0.0812921, -0.3136071, 0.0306354)
+		(-0.4836469, -0.2295738, -0.1260579)
+		(-0.4836469, -0.2295738, -0.1260579)
+		(-0.2128562, -0.222052, -0.0134658)
+		(0.0501531, -0.2147464, 0.0958909) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(-0.2103578, -0.3279836, -0.076678, 0.9177673)
+		(-0.0563608, 0.1349822, -0.1889054, 0.9710397)
+		(-0.2103578, -0.3279836, -0.076678, 0.9177673)
+		(-0.4262783, -0.3316621, -0.0493457, 0.8401501)
+		(-0.5210295, -0.2262139, -0.0449842, 0.8217858)
+		(-0.4257504, -0.1694252, -0.1207395, 0.8805985)
+		(-0.3141547, 0.0228838, -0.2337778, 0.9198539)
+		(-0.2804926, 0.3394238, -0.3564829, 0.8240361)
+		(-0.2230028, 0.2405701, -0.2911706, 0.8986744)
+		(-0.0917068, 0.4530357, -0.2344112, 0.8552193)
+		(-0.1401878, 0.1356289, 0.2082087, 0.958437)
+		(-0.4048102, 0.112972, 0.3187031, 0.8495848)
+		(-0.5144905, 0.1061699, 0.2365346, 0.817361)
+		(0.3959898, -0.3881667, -0.1643423, -0.8157882)
+		(0.2264066, -0.399267, -0.0017525, -0.8884385)
+		(0.067724, -0.403038, -0.0114062, -0.9126028)
+		(0.4805975, 0.1608277, -0.1178503, -0.8539742)
+		(0.3139404, 0.1699073, -0.0715513, -0.9313718)
+		(-0.043811, -0.0291207, -0.0096513, -0.9985688)
+		(-0.0082181, 0.0940596, 0.0291599, -0.9951055)
+		(-0.2103578, -0.3279836, -0.076678, 0.9177673)
+		(-0.1541904, -0.0500058, -0.0389905, 0.9860043)
+		(-0.1171606, 0.1870881, -0.1964717, 0.9553378)
+		(0.1265874, -0.0930109, -0.0437173, 0.9866171)
+		(0.0577026, -0.1966977, -0.0446283, 0.9777468)
+		(-0.1079391, -0.3081049, -0.0652984, 0.942951)
+		(-0.2341214, 0.0395236, -0.032373, 0.9708642)
+		(-0.2560933, -0.1069257, 0.0607237, 0.9587992)
+		(-0.260926, -0.191219, 0.0425543, 0.9452736)
+		(-0.309418, -0.0974852, 0.087695, 0.9418423)
+		(0.1477059, 0.0034747, -0.0691864, 0.9866023)
+		(0.0703229, 0.2101272, -0.1476297, 0.9639019)
+		(-0.0197244, 0.2328439, -0.1771296, 0.9560438)
+		(-0.2833675, -0.1863884, -0.2581419, 0.9046133)
+		(-0.3827083, -0.0896851, 0.0010656, 0.9195054)
+		(-0.4078361, 0.0518107, -0.4136032, 0.8123533)
+		(-0.3070804, 0.0597406, -0.3537496, 0.8814725)
+		(-0.3112404, -0.1635723, -0.2373908, 0.9055491)
+		(-0.263125, -0.0208629, -0.1369524, 0.9547639)
+		(-0.2103578, -0.3279836, -0.076678, 0.9177673)
+		(-0.2138679, -0.3535156, -0.0728121, 0.9077366)
+		(-0.2301926, -0.357704, -0.0752909, 0.9018816)
+		(-0.1102476, -0.0241033, -0.1914846, 0.9749863)
+		(-0.177732, 0.1380741, -0.0772383, 0.9712782)
+		(-0.2434696, -0.154567, -0.0791215, 0.9542387)
+		(-0.1159049, -0.1219866, -0.0652919, 0.9835763)
+		(-0.2027954, -0.2216291, -0.0466617, 0.9526685)
+		(-0.2494545, -0.2738969, -0.0393499, 0.9280111)
+		(-0.122978, -0.2343372, -0.0458869, 0.9632533)
+		(-0.1723966, -0.3025441, -0.0735077, 0.9345283)
+		(-0.3126101, -0.2904257, -0.0708187, 0.9016166)
+		(-0.4787305, -0.0743803, -0.1236034, 0.8660295)
+		(-0.207835, 0.0654506, -0.254051, 0.9423264)
+		(-0.2464065, 0.0013468, -0.2877788, 0.9254543)
+		(-0.2417677, 0.114143, -0.0960369, 0.9587996)
+		(-0.2747034, 0.0856912, -0.0133558, 0.9576099)
+		(-0.227045, -0.0208977, -0.0401108, 0.9728335)
+		(-0.3058439, -0.0768267, 0.1035918, 0.9433059)
+		(-0.2472166, -0.1210346, -0.0440193, 0.9603629)
+		(-0.3790711, 0.0705944, -0.0924259, 0.91803)
+		(-0.1641479, 0.2341908, -0.2652595, 0.9207864)
+		(-0.1525224, 0.1174442, -0.2273439, 0.9545986)
+		(-0.3123884, 0.0046188, -0.1774135, 0.9332291)
+		(-0.3170514, 0.0055026, -0.1768562, 0.9317565)
+		(-0.356465, 0.1151009, -0.3279668, 0.8672499)
+		(-0.2814222, 0.1701252, -0.2625483, 0.9071535)
+		(-0.0698827, 0.0014734, 0.0209763, 0.9973336)
+		(-0.2259305, 0.1437326, 0.0451979, 0.9624208)
+		(0.4650379, 0.4547046, -0.183348, 0.7371343)
+		(0.4650379, 0.4547046, -0.183348, 0.7371343)
+		(-0.0708577, 0.3518364, -0.3700187, 0.8568994)
+		(-0.2103578, -0.3279836, -0.076678, 0.9177673)
+	end
+	rigblock ClsdOpen
+		0.5
+		0.3793194
+		0.6816755
+		0.6871728
+		0.5756262
+		0.5
+		0.3903142
+		0.3188482
+		0.2528796
+		0.5
+		0.3497668
+		0.3297801
+		0.8194536
+		1.0193204
+		1.0493004
+		0.3997335
+		0.703665
+		0.3899788
+		0.2968587
+		0.3408377
+		0.6047121
+		0.6816755
+		0.5045004
+		0.3793194
+		0.5020373
+		0.6267017
+		0.5
+		0.6761781
+		0.6926702
+		0.6212043
+		0.4123037
+		0.3683247
+		0.5
+		0.5
+		0.6981676
+		0.5
+		0.3353404
+		0.5
+		0.5
+		0.6431938
+		0.7311519
+		0.6376964
+		0.5
+		0.5
+		0.7201571
+		0.5
+		0.5
+		0.6376964
+		0.5
+		0.6651833
+		0.5
+		0.373822
+		0.6926702
+		0.5827226
+		0.5
+		0.3958116
+		0.5
+		0.6651833
+		0.6486912
+		0.5
+		0.3353404
+		0.501514
+		0.6486912
+		0.6376964
+		0.505602
+		0.3133508
+		0.3243456
+		0.703665
+		0.3796381
+		0.3796381
+		0.4406963
+		0.5 -value 2 0 2 0
+	end
+	rigblock Point
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+	end
+end
+
+channel "R foot mid" foot -selectX right -selectY localCenter -blendGroup 4
+	info
+		0 -flags 0x2 -event event219
+		4 -flags 0x2
+		8 -flags 0x2 -event event0
+		9 -flags 0x2
+		13 -flags 0x2
+		17 -flags 0x2 -event event1
+		18 -flags 0x2
+		22 -flags 0x2
+		26 -flags 0x2 -event event2
+		27 -flags 0x2
+		29 -flags 0x2
+		31 -flags 0x2
+		33 -flags 0x2
+		35 -flags 0x2 -event event3
+		36 -flags 0x2
+		38 -flags 0x2
+		40 -flags 0x2
+		42 -flags 0x2
+		44 -flags 0x2 -event event4
+		45 -flags 0x2
+		49 -flags 0x2
+		53 -flags 0x2 -event event5
+		54 -flags 0x2
+		58 -flags 0x2
+		62 -flags 0x2 -event event6
+		63 -flags 0x2
+		65 -flags 0x2
+		67 -flags 0x2
+		69 -flags 0x2
+		71 -flags 0x2 -event event7
+		72 -flags 0x2
+		74 -flags 0x2
+		76 -flags 0x2
+		78 -flags 0x2
+		80 -flags 0x2 -event event8
+		81 -flags 0x2
+		83 -flags 0x2
+		85 -flags 0x2
+		90 -flags 0x2 -event event9
+		98 -flags 0x2
+		103 -flags 0x2
+		105 -flags 0x2 -event event10
+		107 -flags 0x2
+		109 -flags 0x2
+		113 -flags 0x2 -event event11
+		115 -flags 0x2
+		117 -flags 0x2
+		120 -flags 0x2
+		122 -flags 0x2 -event event12
+		128 -flags 0x2
+		133 -flags 0x2
+		135 -flags 0x2 -event event13
+		137 -flags 0x2
+		139 -flags 0x2
+		143 -flags 0x2 -event event14
+		145 -flags 0x2
+		147 -flags 0x2
+		150 -flags 0x2
+		152 -flags 0x2 -event event15
+		155 -flags 0x2
+		159 -flags 0x2
+		163 -flags 0x2
+		167 -flags 0x2 -event event16
+		171 -flags 0x2
+		175 -flags 0x2 -event event17
+		179 -flags 0x2
+		183 -flags 0x2
+		187 -flags 0x2
+		191 -flags 0x2 -event event18
+		192 -flags 0x2
+		196 -flags 0x2
+		200 -flags 0x2 -event event19
+		201 -flags 0x2
+		205 -flags 0x2
+		209 -flags 0x2 -event event20
+		210 -flags 0x2
+		214 -flags 0x2
+		218 -flags 0x2 -event event21
+		219 -flags 0x2
+		223 -flags 0x2
+		227 -flags 0x2 -event event22
+		228 -flags 0x2
+		232 -flags 0x2
+		236 -flags 0x2 -event event23
+		237 -flags 0x2
+		241 -flags 0x2
+		245 -flags 0x2 -event event24
+		246 -flags 0x2
+		250 -flags 0x2
+		254 -flags 0x2 -event event25
+		255 -flags 0x2
+		259 -flags 0x2
+		263 -flags 0x2 -event event26
+		264 -flags 0x2
+		266 -flags 0x2
+		268 -flags 0x2
+		272 -flags 0x2 -event event27
+		273 -flags 0x2
+		277 -flags 0x2
+		281 -flags 0x2 -event event28
+		282 -flags 0x2
+		286 -flags 0x2
+		290 -flags 0x2 -event event29
+		291 -flags 0x2
+		295 -flags 0x2
+		299 -flags 0x2 -event event30
+		301 -flags 0x2
+		304 -flags 0x2
+		308 -flags 0x2 -event event31
+		309 -flags 0x2
+		313 -flags 0x2
+		315 -flags 0x2
+		317 -flags 0x2 -event event32
+		318 -flags 0x2
+		322 -flags 0x2
+		326 -flags 0x2 -event event33
+		327 -flags 0x2
+		331 -flags 0x2
+		333 -flags 0x2
+		335 -flags 0x2 -event event34
+		336 -flags 0x2
+		338 -flags 0x2
+		340 -flags 0x2
+		342 -flags 0x2
+		345 -flags 0x2 -event event35
+		358 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.076623, 0.0623062, 0.0164478)
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1632854, 0.3427425, 0.0450641)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.1175703, 0.162637, 0.088181)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0427022, -0.0135678, 0.0172436)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.076623, 0.0623062, 0.0164478)
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1632854, 0.3427425, 0.0450641)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.1175703, 0.162637, 0.088181)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0427022, -0.0135678, 0.0172436)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0018202, -0.0305862, 0.0216267)
+		(0.0513951, -0.0921189, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.1712501, -0.2413924, 0.0206835) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1451218, 0.0962473, 0.1480023)
+		(0.2343379, 0.2054418, 0.0471446)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0541872, 0.2991127, 0.097902)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.0981821, 0.2527241, 0.038126)
+		(0.0753317, -0.0408801, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.1712501, -0.2413924, 0.0206835) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1451218, 0.0962473, 0.1480023)
+		(0.2343379, 0.2054418, 0.0471446)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0541872, 0.2991127, 0.097902)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.0981821, 0.2527241, 0.038126)
+		(0.0753317, -0.0408801, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.0726357, -0.1753684, 0.0333077)
+		(-0.039659, -0.0613188, -0.0013233)
+		(0.0447337, 0.1098809, 0.0979414)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0712489, 0.0542304, 0.0538443)
+		(-0.039659, -0.0613188, -0.0013233)
+		(0.0898509, -0.173535, 0.0185042)
+		(0.1765643, -0.2477684, 0.031735)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0788127, -0.0518161, 0.0009625) -y 2 0 2 0 -z 2 0 2 0
+		(0.1347499, -0.0388386, -0.0073301)
+		(0.1019771, -0.0415642, 0.0381234)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0080535, -0.2960656, 0.0009625) -y 2 0 2 0 -z 2 0 2 0
+		(-0.0614248, -0.306545, 0.0416686)
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0398771, -0.0496448, 0.0344975)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0398771, -0.0496448, 0.0344975)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0788127, -0.0518161, 0.0276928)
+		(0.1309261, -0.2192913, 0.0543599)
+		(0.130349, -0.289704, 0.0948594)
+		(0.3204653, -0.0893473, -0.0008631) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.3204653, -0.0893473, -0.0008631) -x 2 0 2 0 -y 2 0 2 0
+		(0.0484362, 0.0000051, -0.0000332) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(-0, 0, -0.296042, 0.955175)
+		(0.400313, -0.0206852, 0.0210537, 0.915903)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(-0.4367562, -0.0263148, 0.1446997, 0.8874759)
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.3895403, -0.0295102, -0.0005354, 0.9205363)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2484973, -0.0225885, 0.3242377, 0.912474)
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.4783156, -0.2130242, -0.0621349, 0.8496906)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.4457099, -0.1760021, -0.1523381, 0.8643836)
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(-0.0817904, -0.0121679, 0.2613521, 0.9616951)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045025) -rot 2 2
+		(0.4406019, 0.0990734, 0.1086967, 0.8855729)
+		(-0, 0, -0.296042, 0.955175) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.3377438, -0.0294943, 0.0011066, 0.9407752)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2484973, -0.0225885, 0.3242377, 0.912474)
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.4783156, -0.2130242, -0.0621349, 0.8496906)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.4457099, -0.1760021, -0.1523381, 0.8643836)
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(-0.0817904, -0.0121679, 0.2613521, 0.9616951)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.1601696, -0.0167871, 0.322244, 0.9328573)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2464415, 0.0112029, -0.1902516, 0.9502344)
+		(0.284648, -0.1513813, -0.155283, 0.9337807)
+		(0.4247997, -0.1864614, -0.1197203, 0.8777497)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3045603, -0.0864005, 0.0264205, 0.9481983)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.3693919, -0.0467494, 0.178602, 0.9107499)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2464415, 0.0112029, -0.1902516, 0.9502344)
+		(0.284648, -0.1513813, -0.155283, 0.9337807)
+		(0.4247997, -0.1864614, -0.1197203, 0.8777497)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3045603, -0.0864005, 0.0264205, 0.9481983)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.3693919, -0.0467494, 0.178602, 0.9107499)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2639011, -0.0590798, -0.3500078, 0.8968614)
+		(-0.0019121, -0.0005174, -0.4978599, 0.8672552) -rot 2 2
+		(0.3393694, -0.1860961, -0.3366879, 0.8583926)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3182424, -0.1722729, -0.3303067, 0.8717462)
+		(-0.0019121, -0.0005174, -0.4978599, 0.8672552) -rot 2 2
+		(-0.2782072, -0.1539403, 0.0149178, 0.9479877)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2054469, -0.067822, 0.1833276, 0.9589487)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045025) -rot 2 2
+		(0.2873395, 0.0796364, 0.1236469, 0.94647)
+		(-0, 0, -0.296042, 0.955175) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.327254, -0.0294801, 0.0014348, 0.9444754)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(-0.2668567, 0.0006276, 0.1470716, 0.952448)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2428071, -0.0319992, 0.0729334, 0.9667997) -rot 2 2
+		(0.2309576, -0.2483541, 0.0436332, 0.9397206)
+		(0.208442, -0.2143928, 0.0468878, 0.9530945)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.1553057, -0.083506, 0.1565682, 0.971799) -rot 2 2
+		(0.3487233, 0.1056606, 0.1569357, 0.917932) -rot 2 2
+		(0.3174203, -0.0076424, 0.0129726, 0.9481654)
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.3636286, -0.036542, 0.0876497, 0.9266911)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.1419423, -0.0432758, 0.1261199, 0.9808534)
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.3636286, -0.036542, 0.0876497, 0.9266911)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2042116, -0.1827556, 0.0613916, 0.9597547)
+		(0.1497852, -0.1765402, 0.046891, 0.9716992)
+		(-0.1320701, -0.0199891, 0.1403476, 0.9810507)
+		(-0, 0, 0.3542674, 0.9351442)
+		(-0, 0, 0.3542674, 0.9351442) -rot 2 2
+		(-0, 0, -0.296042, 0.955175)
+	end
+	rigblock Bend
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+	end
+end
+
+channel "R foot front" foot -selectX right -selectY localFront -blendGroup 13
+	info
+		0 -flags 0x2
+		3 -flags 0x2
+		7 -flags 0x2 -event event36
+		8 -flags 0x2
+		12 -flags 0x2
+		16 -flags 0x2 -event event37
+		17 -flags 0x2
+		21 -flags 0x2
+		25 -flags 0x2 -event event38
+		26 -flags 0x2
+		28 -flags 0x2
+		30 -flags 0x2
+		32 -flags 0x2
+		34 -flags 0x2 -event event39
+		35 -flags 0x2
+		37 -flags 0x2
+		39 -flags 0x2
+		41 -flags 0x2
+		43 -flags 0x2 -event event40
+		44 -flags 0x2
+		48 -flags 0x2
+		52 -flags 0x2 -event event41
+		53 -flags 0x2
+		57 -flags 0x2
+		61 -flags 0x2 -event event42
+		62 -flags 0x2
+		64 -flags 0x2
+		66 -flags 0x2
+		68 -flags 0x2
+		70 -flags 0x2 -event event43
+		71 -flags 0x2
+		73 -flags 0x2
+		75 -flags 0x2
+		77 -flags 0x2
+		79 -flags 0x2 -event event44
+		80 -flags 0x2
+		82 -flags 0x2
+		84 -flags 0x2
+		89 -flags 0x2 -event event45
+		97 -flags 0x2
+		102 -flags 0x2
+		104 -flags 0x2 -event event46
+		106 -flags 0x2
+		108 -flags 0x2
+		112 -flags 0x2 -event event47
+		114 -flags 0x2
+		116 -flags 0x2
+		119 -flags 0x2
+		121 -flags 0x2 -event event48
+		127 -flags 0x2
+		132 -flags 0x2
+		134 -flags 0x2 -event event49
+		136 -flags 0x2
+		138 -flags 0x2
+		142 -flags 0x2 -event event50
+		144 -flags 0x2
+		146 -flags 0x2
+		149 -flags 0x2
+		151 -flags 0x2 -event event51
+		154 -flags 0x2
+		158 -flags 0x2
+		162 -flags 0x2
+		166 -flags 0x2 -event event52
+		170 -flags 0x2
+		174 -flags 0x2 -event event53
+		178 -flags 0x2
+		182 -flags 0x2
+		186 -flags 0x2
+		190 -flags 0x2 -event event54
+		191 -flags 0x2
+		195 -flags 0x2
+		199 -flags 0x2 -event event55
+		200 -flags 0x2
+		204 -flags 0x2
+		208 -flags 0x2 -event event56
+		209 -flags 0x2
+		213 -flags 0x2
+		217 -flags 0x2 -event event57
+		218 -flags 0x2
+		222 -flags 0x2
+		226 -flags 0x2 -event event58
+		227 -flags 0x2
+		231 -flags 0x2
+		235 -flags 0x2 -event event59
+		236 -flags 0x2
+		240 -flags 0x2
+		244 -flags 0x2 -event event60
+		245 -flags 0x2
+		249 -flags 0x2
+		253 -flags 0x2 -event event61
+		254 -flags 0x2
+		258 -flags 0x2
+		262 -flags 0x2 -event event62
+		263 -flags 0x2
+		265 -flags 0x2
+		267 -flags 0x2
+		271 -flags 0x2 -event event63
+		272 -flags 0x2
+		276 -flags 0x2
+		280 -flags 0x2 -event event64
+		281 -flags 0x2
+		285 -flags 0x2
+		289 -flags 0x2 -event event65
+		290 -flags 0x2
+		294 -flags 0x2
+		298 -flags 0x2 -event event66
+		300 -flags 0x2
+		303 -flags 0x2
+		307 -flags 0x2 -event event67
+		308 -flags 0x2
+		312 -flags 0x2
+		314 -flags 0x2
+		316 -flags 0x2 -event event68
+		317 -flags 0x2
+		321 -flags 0x2
+		325 -flags 0x2 -event event69
+		326 -flags 0x2
+		330 -flags 0x2
+		332 -flags 0x2
+		334 -flags 0x2 -event event70
+		335 -flags 0x2
+		337 -flags 0x2
+		339 -flags 0x2
+		341 -flags 0x2
+		344 -flags 0x2 -event event71
+		359 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.076623, 0.0623062, 0.0164478)
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1632854, 0.3427425, 0.0450641)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.1175703, 0.162637, 0.088181)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0427022, -0.0135678, 0.0172436)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.076623, 0.0623062, 0.0164478)
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1632854, 0.3427425, 0.0450641)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.1175703, 0.162637, 0.088181)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0427022, -0.0135678, 0.0172436)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0018202, -0.0305862, 0.0216267)
+		(0.0513951, -0.0921189, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.1712501, -0.2413924, 0.0206835) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1451218, 0.0962473, 0.1480023)
+		(0.2343379, 0.2054418, 0.0471446)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0541872, 0.2991127, 0.097902)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.0981821, 0.2527241, 0.038126)
+		(0.0753317, -0.0408801, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.1712501, -0.2413924, 0.0206835) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1451218, 0.0962473, 0.1480023)
+		(0.2343379, 0.2054418, 0.0471446)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0541872, 0.2991127, 0.097902)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.0981821, 0.2527241, 0.038126)
+		(0.0753317, -0.0408801, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.0726357, -0.1753684, 0.0333077)
+		(-0.039659, -0.0613188, -0.0013233)
+		(0.0447337, 0.1098809, 0.0979414)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0712489, 0.0542304, 0.0538443)
+		(-0.039659, -0.0613188, -0.0013233)
+		(0.0898509, -0.173535, 0.0185042)
+		(0.1765643, -0.2477684, 0.031735)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0788127, -0.0518161, 0.0009625) -y 2 0 2 0 -z 2 0 2 0
+		(0.1347499, -0.0388386, -0.0073301)
+		(0.1019771, -0.0415642, 0.0381234)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0080535, -0.2960656, 0.0009625) -y 2 0 2 0 -z 2 0 2 0
+		(-0.0614248, -0.306545, 0.0416686)
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0398771, -0.0496448, 0.0344975)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0398771, -0.0496448, 0.0344975)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0788127, -0.0518161, 0.0276928)
+		(0.1309261, -0.2192913, 0.0543599)
+		(0.130349, -0.289704, 0.0948594)
+		(0.2431507, 0.0710851, -0.0007629) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.2431507, 0.0710851, -0.0007629) -x 2 0 2 0 -y 2 0 2 0
+		(0.0484362, 0.0000051, -0.0000332) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(-0, 0, -0.296042, 0.955175)
+		(0.400313, -0.0206852, 0.0210537, 0.915903)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(-0.4367562, -0.0263148, 0.1446997, 0.8874759)
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.3895403, -0.0295102, -0.0005354, 0.9205363)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2484973, -0.0225885, 0.3242377, 0.912474)
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.4783156, -0.2130242, -0.0621349, 0.8496906)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.4457099, -0.1760021, -0.1523381, 0.8643836)
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(-0.0817904, -0.0121679, 0.2613521, 0.9616951)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045025) -rot 2 2
+		(0.4406019, 0.0990734, 0.1086967, 0.8855729)
+		(-0, 0, -0.296042, 0.955175) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.3377438, -0.0294943, 0.0011066, 0.9407752)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2484973, -0.0225885, 0.3242377, 0.912474)
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.4783156, -0.2130242, -0.0621349, 0.8496906)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.4457099, -0.1760021, -0.1523381, 0.8643836)
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(-0.0817904, -0.0121679, 0.2613521, 0.9616951)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.1601696, -0.0167871, 0.322244, 0.9328573)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2464415, 0.0112029, -0.1902516, 0.9502344)
+		(0.284648, -0.1513813, -0.155283, 0.9337807)
+		(0.4247997, -0.1864614, -0.1197203, 0.8777497)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3045603, -0.0864005, 0.0264205, 0.9481983)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.3693919, -0.0467494, 0.178602, 0.9107499)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2464415, 0.0112029, -0.1902516, 0.9502344)
+		(0.284648, -0.1513813, -0.155283, 0.9337807)
+		(0.4247997, -0.1864614, -0.1197203, 0.8777497)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3045603, -0.0864005, 0.0264205, 0.9481983)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.3693919, -0.0467494, 0.178602, 0.9107499)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2639011, -0.0590798, -0.3500078, 0.8968614)
+		(-0.0019121, -0.0005174, -0.4978599, 0.8672552) -rot 2 2
+		(0.3393694, -0.1860961, -0.3366879, 0.8583926)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3182424, -0.1722729, -0.3303067, 0.8717462)
+		(-0.0019121, -0.0005174, -0.4978599, 0.8672552) -rot 2 2
+		(-0.2782072, -0.1539403, 0.0149178, 0.9479877)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2054469, -0.067822, 0.1833276, 0.9589487)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045025) -rot 2 2
+		(0.2873395, 0.0796364, 0.1236469, 0.94647)
+		(-0, 0, -0.296042, 0.955175) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.327254, -0.0294801, 0.0014348, 0.9444754)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(-0.2668567, 0.0006276, 0.1470716, 0.952448)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2428071, -0.0319992, 0.0729334, 0.9667997) -rot 2 2
+		(0.2309576, -0.2483541, 0.0436332, 0.9397206)
+		(0.208442, -0.2143928, 0.0468878, 0.9530945)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.1553057, -0.083506, 0.1565682, 0.971799) -rot 2 2
+		(0.3487233, 0.1056606, 0.1569357, 0.917932) -rot 2 2
+		(0.3174203, -0.0076424, 0.0129726, 0.9481654)
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.3636286, -0.036542, 0.0876497, 0.9266911)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.1419423, -0.0432758, 0.1261199, 0.9808534)
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.3636286, -0.036542, 0.0876497, 0.9266911)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2042116, -0.1827556, 0.0613916, 0.9597547)
+		(0.1497852, -0.1765402, 0.046891, 0.9716992)
+		(-0.1320701, -0.0199891, 0.1403476, 0.9810507)
+		(-0, 0, 0.3542674, 0.9351442)
+		(-0, 0, 0.3542674, 0.9351442) -rot 2 2
+		(-0, 0, -0.296042, 0.955175)
+	end
+	rigblock Bend
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+	end
+end
+
+channel "R foot back" foot -selectX right -selectY localBack -blendGroup 14
+	info
+		0 -flags 0x2
+		5 -flags 0x2
+		9 -flags 0x2 -event event72
+		10 -flags 0x2
+		14 -flags 0x2
+		18 -flags 0x2 -event event73
+		19 -flags 0x2
+		23 -flags 0x2
+		27 -flags 0x2 -event event74
+		28 -flags 0x2
+		30 -flags 0x2
+		32 -flags 0x2
+		34 -flags 0x2
+		36 -flags 0x2 -event event75
+		37 -flags 0x2
+		39 -flags 0x2
+		41 -flags 0x2
+		43 -flags 0x2
+		45 -flags 0x2 -event event76
+		46 -flags 0x2
+		50 -flags 0x2
+		54 -flags 0x2 -event event77
+		55 -flags 0x2
+		59 -flags 0x2
+		63 -flags 0x2 -event event78
+		64 -flags 0x2
+		66 -flags 0x2
+		68 -flags 0x2
+		70 -flags 0x2
+		72 -flags 0x2 -event event79
+		73 -flags 0x2
+		75 -flags 0x2
+		77 -flags 0x2
+		79 -flags 0x2
+		81 -flags 0x2 -event event80
+		82 -flags 0x2
+		84 -flags 0x2
+		86 -flags 0x2
+		91 -flags 0x2 -event event81
+		99 -flags 0x2
+		104 -flags 0x2
+		106 -flags 0x2 -event event82
+		108 -flags 0x2
+		110 -flags 0x2
+		114 -flags 0x2 -event event83
+		116 -flags 0x2
+		118 -flags 0x2
+		121 -flags 0x2
+		123 -flags 0x2 -event event84
+		129 -flags 0x2
+		134 -flags 0x2
+		136 -flags 0x2 -event event85
+		138 -flags 0x2
+		140 -flags 0x2
+		144 -flags 0x2 -event event86
+		146 -flags 0x2
+		148 -flags 0x2
+		151 -flags 0x2
+		153 -flags 0x2 -event event87
+		156 -flags 0x2
+		160 -flags 0x2
+		164 -flags 0x2
+		168 -flags 0x2 -event event88
+		172 -flags 0x2
+		176 -flags 0x2 -event event89
+		180 -flags 0x2
+		184 -flags 0x2
+		188 -flags 0x2
+		192 -flags 0x2 -event event90
+		193 -flags 0x2
+		197 -flags 0x2
+		201 -flags 0x2 -event event91
+		202 -flags 0x2
+		206 -flags 0x2
+		210 -flags 0x2 -event event92
+		211 -flags 0x2
+		215 -flags 0x2
+		219 -flags 0x2 -event event93
+		220 -flags 0x2
+		224 -flags 0x2
+		228 -flags 0x2 -event event94
+		229 -flags 0x2
+		233 -flags 0x2
+		237 -flags 0x2 -event event95
+		238 -flags 0x2
+		242 -flags 0x2
+		246 -flags 0x2 -event event96
+		247 -flags 0x2
+		251 -flags 0x2
+		255 -flags 0x2 -event event97
+		256 -flags 0x2
+		260 -flags 0x2
+		264 -flags 0x2 -event event98
+		265 -flags 0x2
+		267 -flags 0x2
+		269 -flags 0x2
+		273 -flags 0x2 -event event99
+		274 -flags 0x2
+		278 -flags 0x2
+		282 -flags 0x2 -event event100
+		283 -flags 0x2
+		287 -flags 0x2
+		291 -flags 0x2 -event event101
+		292 -flags 0x2
+		296 -flags 0x2
+		300 -flags 0x2 -event event102
+		302 -flags 0x2
+		305 -flags 0x2
+		309 -flags 0x2 -event event103
+		310 -flags 0x2
+		314 -flags 0x2
+		316 -flags 0x2
+		318 -flags 0x2 -event event104
+		319 -flags 0x2
+		323 -flags 0x2
+		327 -flags 0x2 -event event105
+		328 -flags 0x2
+		332 -flags 0x2
+		334 -flags 0x2
+		336 -flags 0x2 -event event106
+		337 -flags 0x2
+		339 -flags 0x2
+		341 -flags 0x2
+		343 -flags 0x2
+		346 -flags 0x2 -event event107
+		360 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.076623, 0.0623062, 0.0164478)
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1632854, 0.3427425, 0.0450641)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.1175703, 0.162637, 0.088181)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0427022, -0.0135678, 0.0172436)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.076623, 0.0623062, 0.0164478)
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1632854, 0.3427425, 0.0450641)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.1175703, 0.162637, 0.088181)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0427022, -0.0135678, 0.0172436)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0018202, -0.0305862, 0.0216267)
+		(0.0513951, -0.0921189, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.1712501, -0.2413924, 0.0206835) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1451218, 0.0962473, 0.1480023)
+		(0.2343379, 0.2054418, 0.0471446)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0541872, 0.2991127, 0.097902)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.0981821, 0.2527241, 0.038126)
+		(0.0753317, -0.0408801, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.1712501, -0.2413924, 0.0206835) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1451218, 0.0962473, 0.1480023)
+		(0.2343379, 0.2054418, 0.0471446)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0541872, 0.2991127, 0.097902)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.1098702, 0.3368682, 0.0028401)
+		(-0.0981821, 0.2527241, 0.038126)
+		(0.0753317, -0.0408801, 0.0923918)
+		(0.1594766, -0.2358877, 0.0212373) -x 3 3 -y 3 3 -z 2 0 2 0
+		(0.0726357, -0.1753684, 0.0333077)
+		(-0.039659, -0.0613188, -0.0013233)
+		(0.0447337, 0.1098809, 0.0979414)
+		(0.2343379, 0.2245522, 0.0097898)
+		(0.0712489, 0.0542304, 0.0538443)
+		(-0.039659, -0.0613188, -0.0013233)
+		(0.0898509, -0.173535, 0.0185042)
+		(0.1765643, -0.2477684, 0.031735)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484362, 0.0000051, -0.0000332)
+		(0.0484362, -0.0000505, 0.0003255)
+		(0.0484362, -0.0000039, 0.0000254)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.1235256, 0.2646038, 0.0923693)
+		(0.1977045, 0.3516496, 0.0004288) -z 2 0 2 0
+		(0.1977045, 0.3516496, 0.0004288)
+		(0.0484906, -0.0000039, 0.049019)
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000219, 0.0001414) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484362, -0.0000374, 0.000241)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0788127, -0.0518161, 0.0009625) -y 2 0 2 0 -z 2 0 2 0
+		(0.1347499, -0.0388386, -0.0073301)
+		(0.1019771, -0.0415642, 0.0381234)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.0484846, -0.2960656, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0080535, -0.2960656, 0.0009625) -y 2 0 2 0 -z 2 0 2 0
+		(-0.0614248, -0.306545, 0.0416686)
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0398771, -0.0496448, 0.0344975)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.044451, -0.196532, 0.0381234)
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.048529, -0.2960656, 0.0410468) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0432972, -0.1739409, 0.1219634)
+		(0.0398771, -0.0496448, 0.0344975)
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0378547, -0.0518161, 0.0009625) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0788127, -0.0518161, 0.0276928)
+		(0.1309261, -0.2192913, 0.0543599)
+		(0.130349, -0.289704, 0.0948594)
+		(0.2459474, -0.2976899, -0.0008347) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.2459474, -0.2976899, -0.0008347) -x 2 0 2 0 -y 2 0 2 0
+		(0.0484362, 0.0000051, -0.0000332) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(-0, 0, -0.296042, 0.955175)
+		(0.400313, -0.0206852, 0.0210537, 0.915903)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(-0.4367562, -0.0263148, 0.1446997, 0.8874759)
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.3895403, -0.0295102, -0.0005354, 0.9205363)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2484973, -0.0225885, 0.3242377, 0.912474)
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.4783156, -0.2130242, -0.0621349, 0.8496906)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.4457099, -0.1760021, -0.1523381, 0.8643836)
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(-0.0817904, -0.0121679, 0.2613521, 0.9616951)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045025) -rot 2 2
+		(0.4406019, 0.0990734, 0.1086967, 0.8855729)
+		(-0, 0, -0.296042, 0.955175) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.3377438, -0.0294943, 0.0011066, 0.9407752)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2484973, -0.0225885, 0.3242377, 0.912474)
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.4783156, -0.2130242, -0.0621349, 0.8496906)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.4457099, -0.1760021, -0.1523381, 0.8643836)
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(-0.0817904, -0.0121679, 0.2613521, 0.9616951)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.1601696, -0.0167871, 0.322244, 0.9328573)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2464415, 0.0112029, -0.1902516, 0.9502344)
+		(0.284648, -0.1513813, -0.155283, 0.9337807)
+		(0.4247997, -0.1864614, -0.1197203, 0.8777497)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3045603, -0.0864005, 0.0264205, 0.9481983)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.3693919, -0.0467494, 0.178602, 0.9107499)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2464415, 0.0112029, -0.1902516, 0.9502344)
+		(0.284648, -0.1513813, -0.155283, 0.9337807)
+		(0.4247997, -0.1864614, -0.1197203, 0.8777497)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3045603, -0.0864005, 0.0264205, 0.9481983)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.2817003, -0.0232693, 0.1677062, 0.944446)
+		(0.3693919, -0.0467494, 0.178602, 0.9107499)
+		(0.0485255, -0.0988478, 0.176885, 0.9780523)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2639011, -0.0590798, -0.3500078, 0.8968614)
+		(-0.0019121, -0.0005174, -0.4978599, 0.8672552) -rot 2 2
+		(0.3393694, -0.1860961, -0.3366879, 0.8583926)
+		(0.2849785, -0.1449122, -0.1374629, 0.9374923)
+		(0.3182424, -0.1722729, -0.3303067, 0.8717462)
+		(-0.0019121, -0.0005174, -0.4978599, 0.8672552) -rot 2 2
+		(-0.2782072, -0.1539403, 0.0149178, 0.9479877)
+		(-0.1961432, -0.1636086, 0.166917, 0.9523124)
+		(-0.2054469, -0.067822, 0.1833276, 0.9589487)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045025) -rot 2 2
+		(0.2873395, 0.0796364, 0.1236469, 0.94647)
+		(-0, 0, -0.296042, 0.955175) -rot 2 2
+		(-0, 0, -0.2940446, 0.9557918) -rot 2 2
+		(-0.327254, -0.0294801, 0.0014348, 0.9444754)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0.2689254, -0.1294588, 0.1255222, 0.9461309)
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.480083, -0.2311085, -0.2505207, 0.8082998) -rot 2 2
+		(0.1355623, -0.0179808, 0.0160829, 0.9904752)
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(0, 0, 0.4264683, 0.9045026) -rot 2 2
+		(-0.2668567, 0.0006276, 0.1470716, 0.952448)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2428071, -0.0319992, 0.0729334, 0.9667997) -rot 2 2
+		(0.2309576, -0.2483541, 0.0436332, 0.9397206)
+		(0.208442, -0.2143928, 0.0468878, 0.9530945)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.3659967, -0.0790058, 0.1658078, 0.9123115) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2197237, -0.0447225, 0.1274539, 0.9661661)
+		(0.1553057, -0.083506, 0.1565682, 0.971799) -rot 2 2
+		(0.3487233, 0.1056606, 0.1569357, 0.917932) -rot 2 2
+		(0.3174203, -0.0076424, 0.0129726, 0.9481654)
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.3636286, -0.036542, 0.0876497, 0.9266911)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.1419423, -0.0432758, 0.1261199, 0.9808534)
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(-0.3368898, -0.0787316, 0.1086153, 0.9319385) -rot 2 2
+		(0.1973016, -0.0406699, 0.1120396, 0.97307)
+		(0.3636286, -0.036542, 0.0876497, 0.9266911)
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.0013398, -0.0139613, 0.071774, 0.9973223) -rot 2 2
+		(0.2042116, -0.1827556, 0.0613916, 0.9597547)
+		(0.1497852, -0.1765402, 0.046891, 0.9716992)
+		(-0.1320701, -0.0199891, 0.1403476, 0.9810507)
+		(-0, 0, 0.3542674, 0.9351442)
+		(-0, 0, 0.3542674, 0.9351442) -rot 2 2
+		(-0, 0, -0.296042, 0.955175)
+	end
+	rigblock Bend
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+	end
+end
+
+channel "L foot mid" foot -selectX left -selectY localCenter -blendGroup 5
+	info
+		0 -flags 0x2
+		3 -flags 0x2
+		7 -flags 0x2 -event event108
+		8 -flags 0x2
+		10 -flags 0x2
+		12 -flags 0x2
+		14 -flags 0x2
+		16 -flags 0x2 -event event109
+		17 -flags 0x2
+		19 -flags 0x2
+		21 -flags 0x2
+		23 -flags 0x2
+		25 -flags 0x2 -event event110
+		26 -flags 0x2
+		30 -flags 0x2
+		34 -flags 0x2 -event event111
+		35 -flags 0x2
+		39 -flags 0x2
+		43 -flags 0x2 -event event112
+		44 -flags 0x2
+		48 -flags 0x2
+		52 -flags 0x2 -event event113
+		53 -flags 0x2
+		57 -flags 0x2
+		61 -flags 0x2 -event event114
+		62 -flags 0x2
+		66 -flags 0x2
+		70 -flags 0x2 -event event115
+		71 -flags 0x2
+		75 -flags 0x2
+		79 -flags 0x2 -event event116
+		80 -flags 0x2
+		82 -flags 0x2
+		84 -flags 0x2
+		86 -flags 0x2
+		89 -flags 0x2 -event event117
+		92 -flags 0x2
+		97 -flags 0x2 -event event118
+		99 -flags 0x2
+		103 -flags 0x2
+		106 -flags 0x2 -event event119
+		112 -flags 0x2
+		116 -flags 0x2
+		118 -flags 0x2
+		120 -flags 0x2 -event event120
+		123 -flags 0x2
+		127 -flags 0x2 -event event121
+		129 -flags 0x2
+		133 -flags 0x2
+		136 -flags 0x2 -event event122
+		142 -flags 0x2
+		146 -flags 0x2
+		150 -flags 0x2 -event event123
+		154 -flags 0x2
+		158 -flags 0x2 -event event124
+		162 -flags 0x2
+		166 -flags 0x2
+		170 -flags 0x2
+		174 -flags 0x2 -event event125
+		178 -flags 0x2
+		182 -flags 0x2 -event event126
+		186 -flags 0x2
+		190 -flags 0x2 -event event127
+		191 -flags 0x2
+		195 -flags 0x2
+		199 -flags 0x2 -event event128
+		200 -flags 0x2
+		204 -flags 0x2
+		208 -flags 0x2 -event event129
+		209 -flags 0x2
+		213 -flags 0x2
+		217 -flags 0x2 -event event130
+		218 -flags 0x2
+		222 -flags 0x2
+		226 -flags 0x2 -event event131
+		227 -flags 0x2
+		231 -flags 0x2
+		235 -flags 0x2 -event event132
+		236 -flags 0x2
+		240 -flags 0x2
+		244 -flags 0x2 -event event133
+		245 -flags 0x2
+		249 -flags 0x2
+		253 -flags 0x2 -event event134
+		254 -flags 0x2
+		258 -flags 0x2
+		262 -flags 0x2 -event event135
+		263 -flags 0x2
+		265 -flags 0x2
+		267 -flags 0x2
+		269 -flags 0x2
+		271 -flags 0x2 -event event136
+		272 -flags 0x2
+		276 -flags 0x2
+		280 -flags 0x2 -event event137
+		281 -flags 0x2
+		285 -flags 0x2
+		289 -flags 0x2 -event event138
+		290 -flags 0x2
+		294 -flags 0x2
+		298 -flags 0x2 -event event139
+		300 -flags 0x2
+		303 -flags 0x2
+		306 -flags 0x2
+		308 -flags 0x2 -event event140
+		309 -flags 0x2
+		312 -flags 0x2
+		316 -flags 0x2 -event event141
+		317 -flags 0x2
+		321 -flags 0x2
+		323 -flags 0x2 -event event142
+		325 -flags 0x2
+		326 -flags 0x2
+		330 -flags 0x2
+		334 -flags 0x2 -event event143
+		335 -flags 0x2
+		339 -flags 0x2
+		341 -flags 0x2
+		344 -flags 0x2 -event event144
+		347 -flags 0x2
+		356 -flags 0x2
+		360 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0615041, 0.1272264, 0.0512285)
+		(-0.0979284, 0.2955745, 0.1069707)
+		(-0.1292059, 0.3256039, 0.0782829)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(-0.0936136, 0.1979358, 0.0389704)
+		(-0.0395928, 0.076533, 0.0664965)
+		(-0.0464196, 0.0217516, 0.0097399)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000609, 0.0003925)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0615041, 0.1272264, 0.0512285)
+		(-0.0979284, 0.2955745, 0.1069707)
+		(-0.1292059, 0.3256039, 0.0782829)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(0.0359079, 0.4068651, 0.0909659)
+		(0.2223966, 0.368741, 0.0111845) -z 2 0 2 0
+		(0.2350642, 0.3667826, 0.0111845) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0110777, -0.1818192, 0.0735163)
+		(-0.124799, -0.3868082, 0.009494) -x 3 3 -y 3 3 -z 2 0 2 0
+		(-0.140701, -0.3992314, 0.009494) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0452916, -0.0593619, 0.0862949)
+		(-0.1290063, 0.2534272, 0.0598288)
+		(-0.1957169, 0.3626417, 0.00074)
+		(0.0359079, 0.4068651, 0.0909659)
+		(0.2252843, 0.3841089, 0.0111845) -z 2 0 2 0
+		(0.2350642, 0.368741, 0.0111845) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0110777, -0.1818192, 0.0735163)
+		(-0.124799, -0.3868082, 0.009494) -x 3 3 -y 3 3 -z 2 0 2 0
+		(-0.140701, -0.3992314, 0.009494) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0452916, -0.0593619, 0.0862949)
+		(-0.1957169, 0.3626417, 0.00074)
+		(0.0449491, 0.1682504, 0.0533356)
+		(0.0354936, -0.0569451, 0.0005806)
+		(-0.0700194, -0.1395681, 0.0256925)
+		(-0.140701, -0.1941634, 0.009494)
+		(-0.0357213, -0.1128707, 0.0179806)
+		(0.0354936, -0.0569451, 0.0005806)
+		(-0.0851458, 0.1944931, 0.0664968)
+		(-0.1957169, 0.3626417, 0.00074)
+		(-0.0395928, -0.0000144, 0.0664965)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000609, 0.0003925)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0093197, -0.3549498, 0.0000271) -y 2 0 2 0 -z 2 0 2 0
+		(0.0460461, -0.3344931, 0.0297138)
+		(0.0237974, -0.3420744, 0.0673163)
+		(-0.0283223, -0.3502168, 0.0311978)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0499709, -0.0000042, 0.0000272)
+		(-0.1255116, 0.0117024, 0.0575361)
+		(-0.0904375, 0.0070197, 0.0345325)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0397549, -0.0157597, 0.052304)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.039539, -0.2386525, 0.0852429)
+		(-0.0497622, -0.078295, 0.0728972)
+		(-0.2534449, 0.0480905, 0.0473753) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.4197362, -0.0295023, -0.0412915)
+		(-0.4197362, -0.0295023, -0.0412915)
+		(0, 0, 0)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(0, -0, 0.3524958, 0.9358134)
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2596546, 0.0202869, -0.2640498, 0.9286795)
+		(0.2208224, 0.1223329, -0.0842322, 0.9639384)
+		(0.4557759, 0.228915, 0.1300161, 0.8502719)
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.3985814, 0.1600474, 0.1889196, 0.8830782)
+		(0.0531526, -0.0396943, -0.0173359, 0.9976466)
+		(-0.1437603, -0.0092283, -0.2885426, 0.946568)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315157, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315156, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3502091, 0.9366715) -rot 2 2
+		(0.4506138, -0.02384, 0.0244668, 0.8920652)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315157, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2596546, 0.0202869, -0.2640498, 0.9286795)
+		(0.2208224, 0.1223329, -0.0842322, 0.9639384)
+		(0.4557759, 0.228915, 0.1300161, 0.8502719)
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.2916185, 0.008981, -0.0608293, 0.9545563)
+		(0.2855716, -0.1199442, -0.2359136, 0.9210902)
+		(0.3610815, -0.1274248, -0.2221478, 0.8966792)
+		(0.047857, -0.0537092, -0.2669706, 0.9610161)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2263383, -0.0036964, 0.2050777, 0.9522082)
+		(0.1076725, 0.1136577, 0.1766864, 0.9717359)
+		(0.3470426, 0.1991264, 0.1495169, 0.9041874)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.2916185, 0.008981, -0.0608293, 0.9545563)
+		(0.2855716, -0.1199442, -0.2359136, 0.9210902)
+		(0.3610815, -0.1274248, -0.2221478, 0.8966792)
+		(0.047857, -0.0537092, -0.2669706, 0.9610161)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2263383, -0.0036964, 0.2050777, 0.9522082)
+		(0.1076725, 0.1136577, 0.1766864, 0.9717359)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.3173856, 0.1823236, 0.3823416, 0.8484335)
+		(0.0000857, 0.0004649, 0.5671688, 0.8236014) -rot 2 2
+		(-0.2398496, -0.043213, 0.2101858, 0.9467981)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2079175, -0.0386634, 0.2240049, 0.9513661)
+		(0.0000857, 0.0004649, 0.5671688, 0.8236014) -rot 2 2
+		(0.2945331, 0.1883844, 0.3835312, 0.8547897)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.0531526, -0.0396943, -0.0173359, 0.9976466)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.3508122, 0.0829514, -0.1262624, 0.9241794)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3502091, 0.9366715) -rot 2 2
+		(0.244204, -0.0286217, 0.0186487, 0.969122)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.3508122, 0.0829514, -0.1262625, 0.9241794)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3791634, -0.0341026, -0.0019975, 0.9246989)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2654972, -0.0080704, -0.1508576, 0.9522017)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.3305053, -0.140107, -0.1696068, 0.917807)
+		(0.4014586, -0.0904865, -0.1374905, 0.9009659)
+		(0.1915355, -0.02469, -0.0575586, 0.9794854)
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.1104853, 0.1572742, -0.0017715, 0.9813536)
+		(0.328833, 0.2572742, -0.0761985, 0.9054683)
+		(-0.0042748, 0.086365, -0.0107794, 0.9961961)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.0811732, 0.0135567, 0.0173173, 0.9964574)
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307701) -rot 2 2
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307702) -rot 2 2
+		(0.1301978, 0.021739, 0.0183126, 0.9910805)
+		(0.3395458, 0.0569046, 0.0168206, 0.9387159)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.0811732, 0.0135567, 0.0173173, 0.9964574)
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307701) -rot 2 2
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307702) -rot 2 2
+		(-0.1746332, -0.0291654, 0.0171017, 0.984053)
+		(0.155932, 0.0612844, -0.0870437, 0.9820147)
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757) -rot 2 2
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757) -rot 2 2
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757)
+		(0, 0, 0, 1)
+		(0, -0, 0.3524958, 0.9358134)
+	end
+	rigblock Bend
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+	end
+end
+
+channel "L foot front" foot -selectX left -selectY localFront -blendGroup 15
+	info
+		0 -flags 0x2
+		4 -flags 0x2
+		8 -flags 0x2 -event event145
+		9 -flags 0x2
+		11 -flags 0x2
+		13 -flags 0x2
+		15 -flags 0x2
+		17 -flags 0x2 -event event146
+		18 -flags 0x2
+		20 -flags 0x2
+		22 -flags 0x2
+		24 -flags 0x2
+		26 -flags 0x2 -event event147
+		27 -flags 0x2
+		31 -flags 0x2
+		35 -flags 0x2 -event event148
+		36 -flags 0x2
+		40 -flags 0x2
+		44 -flags 0x2 -event event149
+		45 -flags 0x2
+		49 -flags 0x2
+		53 -flags 0x2 -event event150
+		54 -flags 0x2
+		58 -flags 0x2
+		62 -flags 0x2 -event event151
+		63 -flags 0x2
+		67 -flags 0x2
+		71 -flags 0x2 -event event152
+		72 -flags 0x2
+		76 -flags 0x2
+		80 -flags 0x2 -event event153
+		81 -flags 0x2
+		83 -flags 0x2
+		85 -flags 0x2
+		87 -flags 0x2
+		90 -flags 0x2 -event event154
+		93 -flags 0x2
+		98 -flags 0x2 -event event155
+		100 -flags 0x2
+		104 -flags 0x2
+		107 -flags 0x2 -event event156
+		113 -flags 0x2
+		117 -flags 0x2
+		119 -flags 0x2
+		121 -flags 0x2 -event event157
+		124 -flags 0x2
+		128 -flags 0x2 -event event158
+		130 -flags 0x2
+		134 -flags 0x2
+		137 -flags 0x2 -event event159
+		143 -flags 0x2
+		147 -flags 0x2
+		151 -flags 0x2 -event event160
+		155 -flags 0x2
+		159 -flags 0x2 -event event161
+		163 -flags 0x2
+		167 -flags 0x2
+		171 -flags 0x2
+		175 -flags 0x2 -event event162
+		179 -flags 0x2
+		183 -flags 0x2 -event event163
+		187 -flags 0x2
+		191 -flags 0x2 -event event164
+		192 -flags 0x2
+		196 -flags 0x2
+		200 -flags 0x2 -event event165
+		201 -flags 0x2
+		205 -flags 0x2
+		209 -flags 0x2 -event event166
+		210 -flags 0x2
+		214 -flags 0x2
+		218 -flags 0x2 -event event167
+		219 -flags 0x2
+		223 -flags 0x2
+		227 -flags 0x2 -event event168
+		228 -flags 0x2
+		232 -flags 0x2
+		236 -flags 0x2 -event event169
+		237 -flags 0x2
+		241 -flags 0x2
+		245 -flags 0x2 -event event170
+		246 -flags 0x2
+		250 -flags 0x2
+		254 -flags 0x2 -event event171
+		255 -flags 0x2
+		259 -flags 0x2
+		263 -flags 0x2 -event event172
+		264 -flags 0x2
+		266 -flags 0x2
+		268 -flags 0x2
+		270 -flags 0x2
+		272 -flags 0x2 -event event173
+		273 -flags 0x2
+		277 -flags 0x2
+		281 -flags 0x2 -event event174
+		282 -flags 0x2
+		286 -flags 0x2
+		290 -flags 0x2 -event event175
+		291 -flags 0x2
+		295 -flags 0x2
+		299 -flags 0x2 -event event176
+		301 -flags 0x2
+		304 -flags 0x2
+		307 -flags 0x2
+		309 -flags 0x2 -event event177
+		310 -flags 0x2
+		313 -flags 0x2
+		317 -flags 0x2 -event event178
+		318 -flags 0x2
+		322 -flags 0x2
+		324 -flags 0x2 -event event179
+		326 -flags 0x2
+		327 -flags 0x2
+		331 -flags 0x2
+		335 -flags 0x2 -event event180
+		336 -flags 0x2
+		340 -flags 0x2
+		342 -flags 0x2
+		345 -flags 0x2 -event event181
+		348 -flags 0x2
+		357 -flags 0x2
+		361 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0615041, 0.1272264, 0.0512285)
+		(-0.0979284, 0.2955745, 0.1069707)
+		(-0.1292059, 0.3256039, 0.0782829)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(-0.0936136, 0.1979358, 0.0389704)
+		(-0.0395928, 0.076533, 0.0664965)
+		(-0.0464196, 0.0217516, 0.0097399)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000609, 0.0003925)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0615041, 0.1272264, 0.0512285)
+		(-0.0979284, 0.2955745, 0.1069707)
+		(-0.1292059, 0.3256039, 0.0782829)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(0.0359079, 0.4068651, 0.0909659)
+		(0.2223966, 0.368741, 0.0111845) -z 2 0 2 0
+		(0.2350642, 0.3667826, 0.0111845) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0110777, -0.1818192, 0.0735163)
+		(-0.124799, -0.3868082, 0.009494) -x 3 3 -y 3 3 -z 2 0 2 0
+		(-0.140701, -0.3992314, 0.009494) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0452916, -0.0593619, 0.0862949)
+		(-0.1290063, 0.2534272, 0.0598288)
+		(-0.1957169, 0.3626417, 0.00074)
+		(0.0359079, 0.4068651, 0.0909659)
+		(0.2252843, 0.3841089, 0.0111845) -z 2 0 2 0
+		(0.2350642, 0.368741, 0.0111845) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0110777, -0.1818192, 0.0735163)
+		(-0.124799, -0.3868082, 0.009494) -x 3 3 -y 3 3 -z 2 0 2 0
+		(-0.140701, -0.3992314, 0.009494) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0452916, -0.0593619, 0.0862949)
+		(-0.1957169, 0.3626417, 0.00074)
+		(0.0449491, 0.1682504, 0.0533356)
+		(0.0354936, -0.0569451, 0.0005806)
+		(-0.0700194, -0.1395681, 0.0256925)
+		(-0.140701, -0.1941634, 0.009494)
+		(-0.0357213, -0.1128707, 0.0179806)
+		(0.0354936, -0.0569451, 0.0005806)
+		(-0.0851458, 0.1944931, 0.0664968)
+		(-0.1957169, 0.3626417, 0.00074)
+		(-0.0395928, -0.0000144, 0.0664965)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000609, 0.0003925)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0093197, -0.3549498, 0.0000271) -y 2 0 2 0 -z 2 0 2 0
+		(0.0460461, -0.3344931, 0.0297138)
+		(0.0237974, -0.3420744, 0.0673163)
+		(-0.0283223, -0.3502168, 0.0311978)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0499709, -0.0000042, 0.0000272)
+		(-0.1255116, 0.0117024, 0.0575361)
+		(-0.0904375, 0.0070197, 0.0345325)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0397549, -0.0157597, 0.052304)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.039539, -0.2386525, 0.0852429)
+		(-0.0497622, -0.078295, 0.0728972)
+		(-0.2534449, 0.0480905, 0.0473753) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.2950396, 0.105396, -0.0107048)
+		(-0.2950396, 0.105396, -0.0107048)
+		(0, 0, 0)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(0, -0, 0.3524958, 0.9358134)
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2596546, 0.0202869, -0.2640498, 0.9286795)
+		(0.2208224, 0.1223329, -0.0842322, 0.9639384)
+		(0.4557759, 0.228915, 0.1300161, 0.8502719)
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.3985814, 0.1600474, 0.1889196, 0.8830782)
+		(0.0531526, -0.0396943, -0.0173359, 0.9976466)
+		(-0.1437603, -0.0092283, -0.2885426, 0.946568)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315157, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315156, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3502091, 0.9366715) -rot 2 2
+		(0.4506138, -0.02384, 0.0244668, 0.8920652)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315157, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2596546, 0.0202869, -0.2640498, 0.9286795)
+		(0.2208224, 0.1223329, -0.0842322, 0.9639384)
+		(0.4557759, 0.228915, 0.1300161, 0.8502719)
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.2916185, 0.008981, -0.0608293, 0.9545563)
+		(0.2855716, -0.1199442, -0.2359136, 0.9210902)
+		(0.3610815, -0.1274248, -0.2221478, 0.8966792)
+		(0.047857, -0.0537092, -0.2669706, 0.9610161)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2263383, -0.0036964, 0.2050777, 0.9522082)
+		(0.1076725, 0.1136577, 0.1766864, 0.9717359)
+		(0.3470426, 0.1991264, 0.1495169, 0.9041874)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.2916185, 0.008981, -0.0608293, 0.9545563)
+		(0.2855716, -0.1199442, -0.2359136, 0.9210902)
+		(0.3610815, -0.1274248, -0.2221478, 0.8966792)
+		(0.047857, -0.0537092, -0.2669706, 0.9610161)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2263383, -0.0036964, 0.2050777, 0.9522082)
+		(0.1076725, 0.1136577, 0.1766864, 0.9717359)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.3173856, 0.1823236, 0.3823416, 0.8484335)
+		(0.0000857, 0.0004649, 0.5671688, 0.8236014) -rot 2 2
+		(-0.2398496, -0.043213, 0.2101858, 0.9467981)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2079175, -0.0386634, 0.2240049, 0.9513661)
+		(0.0000857, 0.0004649, 0.5671688, 0.8236014) -rot 2 2
+		(0.2945331, 0.1883844, 0.3835312, 0.8547897)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.0531526, -0.0396943, -0.0173359, 0.9976466)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.3508122, 0.0829514, -0.1262624, 0.9241794)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3502091, 0.9366715) -rot 2 2
+		(0.244204, -0.0286217, 0.0186487, 0.969122)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.3508122, 0.0829514, -0.1262625, 0.9241794)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3791634, -0.0341026, -0.0019975, 0.9246989)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2654972, -0.0080704, -0.1508576, 0.9522017)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.3305053, -0.140107, -0.1696068, 0.917807)
+		(0.4014586, -0.0904865, -0.1374905, 0.9009659)
+		(0.1915355, -0.02469, -0.0575586, 0.9794854)
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.1104853, 0.1572742, -0.0017715, 0.9813536)
+		(0.328833, 0.2572742, -0.0761985, 0.9054683)
+		(-0.0042748, 0.086365, -0.0107794, 0.9961961)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.0811732, 0.0135567, 0.0173173, 0.9964574)
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307701) -rot 2 2
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307702) -rot 2 2
+		(0.1301978, 0.021739, 0.0183126, 0.9910805)
+		(0.3395458, 0.0569046, 0.0168206, 0.9387159)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.0811732, 0.0135567, 0.0173173, 0.9964574)
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307701) -rot 2 2
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307702) -rot 2 2
+		(-0.1746332, -0.0291654, 0.0171017, 0.984053)
+		(0.155932, 0.0612844, -0.0870437, 0.9820147)
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757) -rot 2 2
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757) -rot 2 2
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757)
+		(0, 0, 0, 1)
+		(0, -0, 0.3524958, 0.9358134)
+	end
+	rigblock Bend
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+	end
+end
+
+channel "L foot back" foot -selectX left -selectY localBack -blendGroup 16
+	info
+		0 -flags 0x2
+		5 -flags 0x2
+		9 -flags 0x2 -event event182
+		10 -flags 0x2
+		12 -flags 0x2
+		14 -flags 0x2
+		16 -flags 0x2
+		18 -flags 0x2 -event event183
+		19 -flags 0x2
+		21 -flags 0x2
+		23 -flags 0x2
+		25 -flags 0x2
+		27 -flags 0x2 -event event184
+		28 -flags 0x2
+		32 -flags 0x2
+		36 -flags 0x2 -event event185
+		37 -flags 0x2
+		41 -flags 0x2
+		45 -flags 0x2 -event event186
+		46 -flags 0x2
+		50 -flags 0x2
+		54 -flags 0x2 -event event187
+		55 -flags 0x2
+		59 -flags 0x2
+		63 -flags 0x2 -event event188
+		64 -flags 0x2
+		68 -flags 0x2
+		72 -flags 0x2 -event event189
+		73 -flags 0x2
+		77 -flags 0x2
+		81 -flags 0x2 -event event190
+		82 -flags 0x2
+		84 -flags 0x2
+		86 -flags 0x2
+		88 -flags 0x2
+		91 -flags 0x2 -event event191
+		94 -flags 0x2
+		99 -flags 0x2 -event event192
+		101 -flags 0x2
+		105 -flags 0x2
+		108 -flags 0x2 -event event193
+		114 -flags 0x2
+		118 -flags 0x2
+		120 -flags 0x2
+		122 -flags 0x2 -event event194
+		125 -flags 0x2
+		129 -flags 0x2 -event event195
+		131 -flags 0x2
+		135 -flags 0x2
+		138 -flags 0x2 -event event196
+		144 -flags 0x2
+		148 -flags 0x2
+		152 -flags 0x2 -event event197
+		156 -flags 0x2
+		160 -flags 0x2 -event event198
+		164 -flags 0x2
+		168 -flags 0x2
+		172 -flags 0x2
+		176 -flags 0x2 -event event199
+		180 -flags 0x2
+		184 -flags 0x2 -event event200
+		188 -flags 0x2
+		192 -flags 0x2 -event event201
+		193 -flags 0x2
+		197 -flags 0x2
+		201 -flags 0x2 -event event202
+		202 -flags 0x2
+		206 -flags 0x2
+		210 -flags 0x2 -event event203
+		211 -flags 0x2
+		215 -flags 0x2
+		219 -flags 0x2 -event event204
+		220 -flags 0x2
+		224 -flags 0x2
+		228 -flags 0x2 -event event205
+		229 -flags 0x2
+		233 -flags 0x2
+		237 -flags 0x2 -event event206
+		238 -flags 0x2
+		242 -flags 0x2
+		246 -flags 0x2 -event event207
+		247 -flags 0x2
+		251 -flags 0x2
+		255 -flags 0x2 -event event208
+		256 -flags 0x2
+		260 -flags 0x2
+		264 -flags 0x2 -event event209
+		265 -flags 0x2
+		267 -flags 0x2
+		269 -flags 0x2
+		271 -flags 0x2
+		273 -flags 0x2 -event event210
+		274 -flags 0x2
+		278 -flags 0x2
+		282 -flags 0x2 -event event211
+		283 -flags 0x2
+		287 -flags 0x2
+		291 -flags 0x2 -event event212
+		292 -flags 0x2
+		296 -flags 0x2
+		300 -flags 0x2 -event event213
+		302 -flags 0x2
+		305 -flags 0x2
+		308 -flags 0x2
+		310 -flags 0x2 -event event214
+		311 -flags 0x2
+		314 -flags 0x2
+		318 -flags 0x2 -event event215
+		319 -flags 0x2
+		323 -flags 0x2
+		325 -flags 0x2 -event event216
+		327 -flags 0x2
+		328 -flags 0x2
+		332 -flags 0x2
+		336 -flags 0x2 -event event217
+		337 -flags 0x2
+		341 -flags 0x2
+		343 -flags 0x2
+		346 -flags 0x2 -event event218
+		349 -flags 0x2
+		358 -flags 0x2
+		362 -flags 0x2
+		365 -flags 0x2
+	end
+	pos -relative -scaleMode CreatureSize
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0615041, 0.1272264, 0.0512285)
+		(-0.0979284, 0.2955745, 0.1069707)
+		(-0.1292059, 0.3256039, 0.0782829)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(-0.0936136, 0.1979358, 0.0389704)
+		(-0.0395928, 0.076533, 0.0664965)
+		(-0.0464196, 0.0217516, 0.0097399)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000609, 0.0003925)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0615041, 0.1272264, 0.0512285)
+		(-0.0979284, 0.2955745, 0.1069707)
+		(-0.1292059, 0.3256039, 0.0782829)
+		(-0.1563603, 0.3286788, 0.0380059)
+		(0.0359079, 0.4068651, 0.0909659)
+		(0.2223966, 0.368741, 0.0111845) -z 2 0 2 0
+		(0.2350642, 0.3667826, 0.0111845) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0110777, -0.1818192, 0.0735163)
+		(-0.124799, -0.3868082, 0.009494) -x 3 3 -y 3 3 -z 2 0 2 0
+		(-0.140701, -0.3992314, 0.009494) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0452916, -0.0593619, 0.0862949)
+		(-0.1290063, 0.2534272, 0.0598288)
+		(-0.1957169, 0.3626417, 0.00074)
+		(0.0359079, 0.4068651, 0.0909659)
+		(0.2252843, 0.3841089, 0.0111845) -z 2 0 2 0
+		(0.2350642, 0.368741, 0.0111845) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0110777, -0.1818192, 0.0735163)
+		(-0.124799, -0.3868082, 0.009494) -x 3 3 -y 3 3 -z 2 0 2 0
+		(-0.140701, -0.3992314, 0.009494) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0452916, -0.0593619, 0.0862949)
+		(-0.1957169, 0.3626417, 0.00074)
+		(0.0449491, 0.1682504, 0.0533356)
+		(0.0354936, -0.0569451, 0.0005806)
+		(-0.0700194, -0.1395681, 0.0256925)
+		(-0.140701, -0.1941634, 0.009494)
+		(-0.0357213, -0.1128707, 0.0179806)
+		(0.0354936, -0.0569451, 0.0005806)
+		(-0.0851458, 0.1944931, 0.0664968)
+		(-0.1957169, 0.3626417, 0.00074)
+		(-0.0395928, -0.0000144, 0.0664965)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000609, 0.0003925)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000144, 0.0000931)
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000327, 0.0002107) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.000048, 0.0003094)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(0.0093197, -0.3549498, 0.0000271) -y 2 0 2 0 -z 2 0 2 0
+		(0.0460461, -0.3344931, 0.0297138)
+		(0.0237974, -0.3420744, 0.0673163)
+		(-0.0283223, -0.3502168, 0.0311978)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396334, -0.3549498, 0.0000271) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0499709, -0.0000042, 0.0000272)
+		(-0.1255116, 0.0117024, 0.0575361)
+		(-0.0904375, 0.0070197, 0.0345325)
+		(-0.0396665, -0.0000042, 0.0000272)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0397751, -0.1478581, 0.1567723)
+		(-0.0397549, -0.0157597, 0.052304)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395909, -0.177477, 0.0533524)
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.0395953, -0.3549498, 0.0344605) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.039539, -0.2386525, 0.0852429)
+		(-0.0497622, -0.078295, 0.0728972)
+		(-0.2534449, 0.0480905, 0.0473753) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+		(-0.2639496, -0.2059276, -0.0508833)
+		(-0.2639496, -0.2059276, -0.0508833)
+		(0, 0, 0)
+		(-0.0396665, -0.0000042, 0.0000272) -x 2 0 2 0 -y 2 0 2 0 -z 2 0 2 0
+	end
+	rot -relative
+		(0, -0, 0.3524958, 0.9358134)
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2596546, 0.0202869, -0.2640498, 0.9286795)
+		(0.2208224, 0.1223329, -0.0842322, 0.9639384)
+		(0.4557759, 0.228915, 0.1300161, 0.8502719)
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.3985814, 0.1600474, 0.1889196, 0.8830782)
+		(0.0531526, -0.0396943, -0.0173359, 0.9976466)
+		(-0.1437603, -0.0092283, -0.2885426, 0.946568)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315157, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315156, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3502091, 0.9366715) -rot 2 2
+		(0.4506138, -0.02384, 0.0244668, 0.8920652)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.288369, 0.0743423, -0.1315157, 0.9455264)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3166224, -0.0341598, 0.0002823, 0.9479364)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2596546, 0.0202869, -0.2640498, 0.9286795)
+		(0.2208224, 0.1223329, -0.0842322, 0.9639384)
+		(0.4557759, 0.228915, 0.1300161, 0.8502719)
+		(0.3945515, 0.2185767, 0.3125612, 0.8359779) -rot 2 2
+		(0.2916185, 0.008981, -0.0608293, 0.9545563)
+		(0.2855716, -0.1199442, -0.2359136, 0.9210902)
+		(0.3610815, -0.1274248, -0.2221478, 0.8966792)
+		(0.047857, -0.0537092, -0.2669706, 0.9610161)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2263383, -0.0036964, 0.2050777, 0.9522082)
+		(0.1076725, 0.1136577, 0.1766864, 0.9717359)
+		(0.3470426, 0.1991264, 0.1495169, 0.9041874)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.2916185, 0.008981, -0.0608293, 0.9545563)
+		(0.2855716, -0.1199442, -0.2359136, 0.9210902)
+		(0.3610815, -0.1274248, -0.2221478, 0.8966792)
+		(0.047857, -0.0537092, -0.2669706, 0.9610161)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2263383, -0.0036964, 0.2050777, 0.9522082)
+		(0.1076725, 0.1136577, 0.1766864, 0.9717359)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.3173856, 0.1823236, 0.3823416, 0.8484335)
+		(0.0000857, 0.0004649, 0.5671688, 0.8236014) -rot 2 2
+		(-0.2398496, -0.043213, 0.2101858, 0.9467981)
+		(-0.1852821, 0.0146831, -0.2494945, 0.9503723)
+		(-0.2079175, -0.0386634, 0.2240049, 0.9513661)
+		(0.0000857, 0.0004649, 0.5671688, 0.8236014) -rot 2 2
+		(0.2945331, 0.1883844, 0.3835312, 0.8547897)
+		(0.2312508, 0.1470658, 0.1486884, 0.9501508)
+		(0.0531526, -0.0396943, -0.0173359, 0.9976466)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.3508122, 0.0829514, -0.1262624, 0.9241794)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3502091, 0.9366715) -rot 2 2
+		(0.244204, -0.0286217, 0.0186487, 0.969122)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0.3508122, 0.0829514, -0.1262625, 0.9241794)
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(0, -0, 0.3524958, 0.9358134) -rot 2 2
+		(-0.3791634, -0.0341026, -0.0019975, 0.9246989)
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(-0, -0, -0.4630619, 0.886326) -rot 2 2
+		(0.2654972, -0.0080704, -0.1508576, 0.9522017)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.3305053, -0.140107, -0.1696068, 0.917807)
+		(0.4014586, -0.0904865, -0.1374905, 0.9009659)
+		(0.1915355, -0.02469, -0.0575586, 0.9794854)
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.2335649, 0.0390076, 0.016882, 0.9714119)
+		(0.2671758, 0.0446209, 0.0167266, 0.962469) -rot 2 2
+		(0.2671757, 0.0446209, 0.0167266, 0.9624689) -rot 2 2
+		(0.3373825, 0.0565784, 0.0173919, 0.939505)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.1104853, 0.1572742, -0.0017715, 0.9813536)
+		(0.328833, 0.2572742, -0.0761985, 0.9054683)
+		(-0.0042748, 0.086365, -0.0107794, 0.9961961)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.0811732, 0.0135567, 0.0173173, 0.9964574)
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307701) -rot 2 2
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307702) -rot 2 2
+		(0.1301978, 0.021739, 0.0183126, 0.9910805)
+		(0.3395458, 0.0569046, 0.0168206, 0.9387159)
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0, 0, 0.0173762, 0.9998491) -rot 2 2
+		(0.0811732, 0.0135567, 0.0173173, 0.9964574)
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307701) -rot 2 2
+		(-0.3602573, -0.0601664, 0.0161757, 0.9307702) -rot 2 2
+		(-0.1746332, -0.0291654, 0.0171017, 0.984053)
+		(0.155932, 0.0612844, -0.0870437, 0.9820147)
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757) -rot 2 2
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757) -rot 2 2
+		(0.5572755, 0.1707593, -0.2158885, 0.7833757)
+		(0, 0, 0, 1)
+		(0, -0, 0.3524958, 0.9358134)
+	end
+	rigblock Bend
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+		0.5
+	end
+end
+
+channel Eyes eye -blendGroup 8
+	info
+		0
+		17
+		19
+		21
+		113
+		115
+		117
+		174
+		176
+		178
+		241
+		243
+		245
+		290
+		292
+		294
+		333
+		337
+		358
+		365
+	end
+	rigblock ClsdOpen
+		0.5120921
+		0.5120921 -value 2 0 2 0
+		-0.0294118
+		0.5120921 -value 2 0 2 0
+		0.5120921 -value 2 0 2 0
+		-0.0294118
+		0.5120921 -value 2 0 2 0
+		0.5120921 -value 2 0 2 0
+		-0.0294118
+		0.5120921 -value 2 0 2 0
+		0.5120921 -value 2 0 2 0
+		-0.0294118
+		0.5120921 -value 2 0 2 0
+		0.5120921 -value 2 0 2 0
+		-0.0294118
+		0.5120921 -value 2 0 2 0
+		0.5120921 -value 2 0 2 0
+		-0.0294118
+		-0.0294118
+		0.5120921
+	end
+	rigblock MadSad
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+	end
+	rigblock Scared
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+		0 0
+	end
+end
+
+channel Mouthmorphs mout -blendGroup 1
+	info
+		0
+	end
+	rigblock ClsdOpen
+		0
+	end
+	rigblock SmileFrown
+		0 0
+	end
+	rigblock LickAir
+		0 0
+	end
+	rigblock Unique
+		0 0
+	end
+end
+
+channel pseudoFoot psft -blendGroup 12
+	info
+	end
+	pos -relative -scaleMode CreatureSize -flags 0x200
+	end
+	rot -relative
+	end
+end
+
