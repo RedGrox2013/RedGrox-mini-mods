@@ -1,0 +1,6 @@
+key parent 0x12DF1255.prop
+bboxs modelBoundingBox
+	(-0.490644, -0.399169, -0.008027) (0.648602, 0.396386, 0.783485)
+end
+float modelBoundingRadius 1.092644
+key modelMeshLOD0 Anonymous_egg_breaking_open.rw4

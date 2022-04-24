@@ -1,0 +1,5 @@
+key parent definitions~!0x04051EB4.prop
+int32 interactiveOrnamentType 7
+uint32 materialType 5
+string8 nounDefinition_ResourceDescription "Anonymous_egg"
+key nounDefinition_ResourceKey CivicObjects!Anonymous_egg.prop

@@ -1,0 +1,7 @@
+key parent CivicObjects!EP1_StaticObjectTemplate.prop
+key modelMeshLOD0 Anonymous_egg.rw4
+key modelMeshLOD1 Anonymous_egg.rw4
+key modelMeshLOD2 Anonymous_egg.rw4
+vector3 modelOffset (0, 0, 1.5)
+vector3 modelRotation (0, -90, 0)
+float modelScale 4

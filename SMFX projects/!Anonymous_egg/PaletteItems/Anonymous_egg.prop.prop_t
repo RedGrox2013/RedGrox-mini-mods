@@ -1,0 +1,7 @@
+key parent PaletteItems!0x5C5C0759.prop
+key modelMeshLOD0 Anonymous_egg.rw4
+key paletteItemPlacedAsset definitions~!Anonymous_egg.cInteractiveOrnament
+texts sporepediaName
+	(Anonymous_egg!0xedadea12) "Anonymous egg"
+end
+bool sporepediaShow true
