@@ -1,0 +1,5 @@
+animations~	0x0
+auto_animations~_GGENewCellGame
+auto_animations~_GGENewCellGame-ep1
+GGENewCellGame
+GGENewCellGame-ep1

@@ -1,0 +1,6 @@
+<mod displayName="Eyeguy" unique="Eyeguy" description="Мод, позволяющий играть за вырезанную клетку Eyeguy.&#xA;Мод сделал RedGrox (Дух Ияхо)." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+	<componentGroup unique="groupEyeguy" displayName="Выберите версию:">
+		<component unique="Eyeguy_v1" displayName="Много клеток" description="Помимо Eyeguy вы можете выбрать других травоядных клеток, но если вы захотите выбрать Eyeguy, то вам придётся долго кликать, пока он вам не попадётся." imagePlacement="After" game="GalacticAdventures" defaultChecked="true">!!!Eyeguy_v1.package</component>
+		<component unique="Eyeguy_v2" displayName="Только Eyeguy" description="Из всех травоядных клеток вы сможете выбрать только Eyeguy (ну и ещё одну травоядную клетку всё же решил оставить)." imagePlacement="After" game="GalacticAdventures">!!!Eyeguy_v2.package</component>
+	</componentGroup>
+</mod>

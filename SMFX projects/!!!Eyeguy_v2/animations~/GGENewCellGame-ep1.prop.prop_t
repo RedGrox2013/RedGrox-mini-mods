@@ -1,0 +1,38 @@
+bool ChooseAssets false
+bool ChooseCaptainName false
+bool ChooseCreature false
+bool ChooseCreatureAndAssetsTogether true
+bool ChooseDiet true
+bool ChooseDifficulty true
+bool ChooseName true
+bool ChooseSpecialty false
+bool ChooseTheme true
+uint32 NewGameArchetypeFilter 0x2f01d6d3
+string16s startingcellModels
+	"Bawb"
+	"Fohlees"
+	"Ildeeni"
+	"Jowwi"
+	"Kroot"
+	"Simnu"
+	"Sporoo"
+	"eyeguy"
+end
+uint32 0x0AA450B4 0x062d838f
+uint32 0x10B6634E 0x3d97a8e4
+uint32 0x182D5E45 0x062ebd99
+bool 0x25844B66 false
+uint32 0x296042C0 0x05a5cf6e
+uint32 0x2A29CC75 0x06451150
+uint32 0x525760B1 0
+uint32 0x7075C07E 0x05b08742
+uint32 0xB3AE8587 0
+uint32s 0xC06F6C08
+	0x0668b340
+	0x05b08721
+	0x05af2b91
+	0x05af2a12
+end
+uint32 0xD047A893 0x0677345c
+uint32 0xD07E6AEE 0
+uint32 0xE10AE352 0x05a5cf80
