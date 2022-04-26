@@ -36,6 +36,12 @@ ___
 
 [![Anonymous_egg](https://i.ytimg.com/vi/l1yr-Jm51BE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn3aDL_1jqnf9DX6f5ZnzY0OXzbg "Видео")](https://www.youtube.com/watch?v=l1yr-Jm51BE)
 
+### Eyeguy
+
+Позволяет играть за вырезанную клетку Eyeguy.
+
+[![Eyeguy](https://i.ytimg.com/an_webp/yNu9LZogujs/mqdefault_6s.webp?du=3000&sqp=COPvn5MG&rs=AOn4CLCj4yMvwubsjID03z-p9rnBtkPjUw "Видео")](https://www.youtube.com/watch?v=yNu9LZogujs)
+
 ___
 
 ## Создатель
