@@ -1,0 +1,23 @@
+vector2s vi_actor_offsets
+	(0, 0)
+end
+floats vi_actor_orientations
+	0
+end
+uint32s vi_actor_sequences
+	0
+end
+uint32s vi_animations_0
+	0x05d4031c
+	0x05d516a3
+	0x05d4031c
+	0x05d516a3
+end
+keys vi_effects_general
+	0xDB6B3615
+end
+vector2s vi_effects_general_offsets
+	(0, 2.5999999)
+end
+string16 vi_name "sentient_alone_byfire"
+uint32 vi_tableau 1

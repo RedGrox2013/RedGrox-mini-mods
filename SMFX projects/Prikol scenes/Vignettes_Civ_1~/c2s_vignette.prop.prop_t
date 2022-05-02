@@ -1,0 +1,123 @@
+vector2s vi_actor_offsets
+	(4, -7)
+	(6, -7)
+	(7, 1)
+	(7, 3)
+	(7, 4.5999999)
+	(5, 7)
+	(1, 7)
+	(-2, 5)
+	(-4, 3)
+	(-5, 1)
+	(-5, -5)
+	(-6, -4)
+	(8.5, -5.5)
+	(9.5, -6)
+	(10.5, -6.5)
+end
+floats vi_actor_orientations
+	15
+	20
+	100
+	90
+	110
+	150
+	190
+	200
+	230
+	-80
+	-60
+	-50
+	60
+	60
+	60
+end
+uint32s vi_actor_sequences
+	1
+	5
+	6
+	4
+	1
+	6
+	7
+	8
+	1
+	2
+	3
+	4
+	9
+	9
+	9
+end
+uint32s vi_animations_1
+	0x0580a5b4
+	0x057e0105
+	0x057e0120
+	0x057e0129
+	0x057e0125
+	0x057e0105
+end
+uint32s vi_animations_2
+	0x0580a5c2
+	0x057e0120
+	0x057e0129
+	0x057e0125
+	0x057e0105
+	0x057e0120
+end
+uint32s vi_animations_3
+	0x0580a5b4
+	0x057e0125
+	0x057e0105
+	0x057e0120
+	0x057e0129
+	0x057e0125
+end
+uint32s vi_animations_4
+	0x0580a5c2
+	0x057e0129
+	0x057e0125
+	0x057e0105
+	0x057e0120
+	0x057e0129
+end
+uint32s vi_animations_5
+	0x05836d6a
+	0x057e3edb
+	0x057e3e7d
+	0x057e3e88
+	0x057e3e83
+	0x057e3edb
+end
+uint32s vi_animations_6
+	0x05836d67
+	0x057e3e7d
+	0x057e3e88
+	0x057e3e83
+	0x057e3edb
+	0x057e3e7d
+end
+uint32s vi_animations_7
+	0x0580a5b4
+	0x057e3e83
+	0x057e3edb
+	0x057e3e7d
+	0x057e3e88
+	0x057e3e83
+end
+uint32s vi_animations_8
+	0x0580a5c2
+	0x057e3e88
+	0x057e3e83
+	0x057e3edb
+	0x057e3e7d
+	0x057e3e88
+end
+uint32s vi_animations_9
+	0x0580a976
+end
+vector2s vi_effects_general_offsets
+	(0, 0)
+end
+string16 vi_name "c2s_vignette"
+uint32 vi_tableau 1

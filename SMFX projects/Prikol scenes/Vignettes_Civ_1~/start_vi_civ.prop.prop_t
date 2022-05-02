@@ -1,0 +1,69 @@
+vector2s vi_actor_offsets
+	(1, -6)
+	(1, -6)
+	(1, -6)
+	(1, -6)
+	(1, -6)
+	(-1, 3)
+	(-1, 3)
+	(-1, 3)
+	(-1, 7)
+	(-1, 7)
+	(1, 3)
+	(1, -5)
+	(-1, 5)
+	(2, -5)
+	(-2, 5)
+end
+bool vi_actor_offsets_unscaled true
+floats vi_actor_orientations
+	0
+	0
+	0
+	0
+	0
+	180
+	180
+	180
+	180
+	180
+	180
+	0
+	180
+	0
+	180
+end
+uint32s vi_actor_sequences
+	0
+	2
+	1
+	1
+	4
+	0
+	2
+	3
+	4
+	3
+	0
+	2
+	1
+	3
+	4
+end
+uint32s vi_animations_0
+	0x05b5a212
+end
+uint32s vi_animations_1
+	0x05b5a325
+end
+uint32s vi_animations_2
+	0x05b6fbe7
+end
+uint32s vi_animations_3
+	0x05b812d8
+end
+uint32s vi_animations_4
+	0x05b82da1
+end
+string16 vi_name "start_vi_civ"
+uint32 vi_tableau 1

@@ -1,0 +1,62 @@
+vector2s vi_actor_offsets
+	(4, 10)
+	(-4, 10)
+	(0, 8)
+	(2, 12)
+	(-2, 11)
+	(6, -4)
+	(3, -4)
+	(6, 6)
+	(-5.5, 6)
+	(-1, 4)
+	(1, 4)
+	(0, 13)
+end
+floats vi_actor_orientations
+	180
+	180
+	180
+	180
+	180
+	180
+	180
+	180
+	180
+	180
+	180
+	180
+end
+uint32s vi_actor_sequences
+	0
+	1
+	2
+	3
+	0
+	4
+	5
+	1
+	1
+	0
+	3
+	2
+end
+uint32s vi_animations_0
+	0x05c019b2
+end
+uint32s vi_animations_1
+	0x05c01a38
+end
+uint32s vi_animations_2
+	0x05c01a52
+end
+uint32s vi_animations_3
+	0x05c01a68
+end
+uint32s vi_animations_4
+	0x0660b716
+end
+uint32s vi_animations_5
+	0x0660c97d
+end
+string16 vi_name "open_vi"
+uint32 vi_tableau 1

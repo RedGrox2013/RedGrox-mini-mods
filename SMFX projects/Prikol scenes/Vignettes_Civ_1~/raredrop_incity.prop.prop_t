@@ -1,0 +1,80 @@
+vector2s vi_actor_offsets
+	(0, 2.5)
+	(0, -2.5)
+	(2.5, 0)
+	(-2.5, 0)
+	(-1.2, 1.5)
+	(1.5, 1.5)
+	(1.5, -2)
+	(-1, -2)
+end
+floats vi_actor_orientations
+	180
+	0
+	90
+	-90
+	225
+	135
+	30
+	-30
+end
+uint32s vi_actor_sequences
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+end
+uint32s vi_animations_0
+	0x05c1a78f
+	0x057e3edb
+	0x057e3edb
+end
+uint32s vi_animations_1
+	0x057e0105
+	0x057e0120
+	0x057e0120
+end
+uint32s vi_animations_2
+	0x057e3edb
+	0x057e3e7d
+	0x057e3e7d
+end
+uint32s vi_animations_3
+	0x057e0120
+	0x057e0129
+	0x057e0129
+end
+uint32s vi_animations_4
+	0x057e3e7d
+	0x057e3e88
+	0x057e3e88
+end
+uint32s vi_animations_5
+	0x057e0125
+	0x057e3e83
+	0x057e3e83
+end
+uint32s vi_animations_6
+	0x057e3e83
+	0x057e0125
+	0x057e0125
+end
+uint32s vi_animations_7
+	0x057e0129
+	0x057e0105
+	0x057e0105
+end
+uint32s vi_animations_8
+	0x057e3e88
+	0x057e0129
+	0x057e0129
+end
+vector2s vi_effects_general_offsets
+	(0, 0)
+end
+string16 vi_name "raredrop_incity"
+uint32 vi_tableau 1
