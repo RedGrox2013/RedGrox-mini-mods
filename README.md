@@ -40,8 +40,13 @@ ___
 
 Позволяет играть за вырезанную клетку Eyeguy.
 
-[![Eyeguy](https://i.ytimg.com/an_webp/yNu9LZogujs/mqdefault_6s.webp?du=3000&sqp=COPvn5MG&rs=AOn4CLCj4yMvwubsjID03z-p9rnBtkPjUw "Видео")](https://www.youtube.com/watch?v=yNu9LZogujs)
+[![Eyeguy](https://i.ytimg.com/vi/yNu9LZogujs/hqdefault.jpg "Видео")](https://www.youtube.com/watch?v=yNu9LZogujs)
 
+### Prikol scenes
+
+Добавляет новые анимации для горожан
+
+![Prikol_scenes](https://media.discordapp.net/attachments/906971382276042776/970683644375072828/unknown.png)
 ___
 
 ## Создатель
