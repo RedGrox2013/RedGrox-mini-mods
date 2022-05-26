@@ -1,0 +1,170 @@
+### profile - middle ground ###
+
+0x0474E6F8 Gut genug 
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Tutorials
+0x058B62B1 Spieletipps
+0x058B62B2 Bildschirmrand-Scrollen
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Standardeinstellungen
+0x0474E6B5 Grafikeinstellungen
+0x0474E6B6 Niedrig
+0x0474E6C2 Mittel
+0x0474E6C6 Hoch
+0x0474E6CC Schatten
+0x0474E6D0 Texturendetails
+0x0474E6D6 Grafikeffekte
+0x0474E6DE Qualität des Spielermodells
+0x0474E6E4 Qualität des Planeten
+0x0474E6E5 Qualität der Beleuchtung
+0x0474E6E9 Bildschirmauflösung
+0x0474E6ED Größe des Grafik-Caches (MB)
+0x0474E6F0 Profile
+0x058A2A2B Die Änderung der Auflösung macht einen Neustart erforderlich und könnte die Leistung des Spiels beeinträchtigen.
+0x058B6240 Vollbildmodus
+0x058B624C Fenstermodus
+0xBBFC7687 Tiefenschärfe
+0x066A4BC8 Anti-Aliasing
+0x0674D28F Bildschirmblüte
+0x0695A585 Mit "Strg" und "Enter" wechselst du zwischen dem Fenster- und dem Vollbild-Modus.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A23A4 Zoom
+0x080B23B6 Raumschiff bewegen
+0x080B23B8 Flughöhe verändern
+0x080B23B2 Zivilisation
+0x080B23B3 Ziel auswählen
+0x080B23B4 Werkzeug aktivieren
+0x090A24A7 Kamera bewegen
+0x090A23A3 Kreatur bewegen
+0x090A28A7 Wähle ein Fahrzeug aus
+0x090A28A6 Wähle ein Stammesmitglied aus
+0x088B63B6 Kreatur
+0x090A21A6 Richtungsanweisungen geben
+0x088B63B9 Stamm
+0x088B63B7 Klicke hier, um das Drehen an die rechte Maustaste zu koppeln
+0x090A29A7 Zelle bewegen
+0x090A50AA Linksklicke und bewege die Maus oder verwende die Tasten W, A, S, D
+0x090A50A6 Drehe am Mausrad
+0x090A50A5 Rechtsklicke und bewege die Maus
+0x090A50A7 Klicke mit beiden Maustasten und bewege die Maus
+0x090A50A8 Rechtsklicke und bewege die Maus oder verwende die Tasten W, A, S, D
+0x090A50A9 Kreatur folgt Mauszeiger
+0x090A50A1 Verwende die Tasten W, A, S, D
+0x090A30B5 Fahrzeuge mit Auswahlrechteck auswählen
+0x090A30B4 Stammesmitglieder mit Auswahlrechteck auswählen
+0x090A50A4 Klicke mit der rechten Maustaste
+0x090A50A3 Linksklicke und bewege die Maus
+0x090A50A2 Klicke mit der linken Maustaste
+0x088B63B3 Zelle
+0x080B23B9 Weltraum
+0x088B63B4 Klicke hier, um automatisch dem Mauszeiger zu folgen
+0x088B63B5 Bewege die Maus über Symbole, um ihre Funktion angezeigt zu bekommen
+0x090A26A9 Kamera neigen und drehen
+0x080B23B7 Kamera neigen und drehen
+0x090A50AC Halte die mittlere Maustaste gedrückt
+0x090A50AB Halte "Command", "ALT" und die linke Maustaste gedrückt
+
+#### profile - user selects ####
+
+0x0474E6FC Benutzerdefiniert
+
+#### profile - performance ####
+
+0x0474E6F1 Leistung
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A6 Offline
+0x0565289D Abmelden 
+0x0565289E Anmelden
+0x0565289F Registrieren
+0x056528A0 Server-Verbindung
+0x056528A1 Status:
+0x056528A3 Beim Start anzeigen
+0x056528A4 Nicht registriert
+0x056528A5 Ein Konto erstellen, um eine Verbindung zu Spore aufzubauen.
+0x056528A7 Mit Spore verbinden.
+0x056528A9 Die Verbindung zu Spore trennen oder Benutzer wechseln. 
+0x058B63D4 Ästhetische Übereinstimmung
+0x0626E391 Tage bis zum Löschen
+0x0626E392 Gelöschte Downloads in Archiv kopieren
+0x0626E390 Alte Downloads löschen
+0x056528A2 Online-Optionen
+0x05E39554 Inhaltsdatenbank wird aktualisiert ...
+0x058B63D3 Nur Inhalte von Freunden
+0x056528A8 ~generic0~ verbunden
+0x067A21D9 Tage.
+0x067A21D7 Größe des Download-Cache (MB)
+0x067A21D8 Nur Inhalt aus Abonnements herunterladen, der nicht älter ist als folgende Anzahl an Tagen:
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Soundeinstellungen
+0x0473EF2C Grafikeinstellungen
+0x0473EF2D Spieleinstellungen
+0x0473EF2E Aufzeichnungseinstellungen
+0x0473EF2F Onlineeinstellungen
+0x0473EF30 Mitwirkende
+0x0473EF31 Einstellungen speichern
+0x0473EF32 Nicht speichern und Optionen schließen
+0x0473EF33 Einstellungen
+0x0473EF34 Steuerungseinstellungen
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x05664D28 Automatisch bei YouTube anmelden
+0x0589E518 Filmgröße
+0x0589E519 640x480
+0x0589E51A 720x1280
+0x0589E51B 1920x1080
+0x0589E51C Bildgröße
+0x0589E51D Klein
+0x0589E51E Mittel
+0x0589E51F Groß
+0x058B6381 Spiel- & Aufzeichnungseinstellungen
+0x058B63A0 Film ohne Ton aufnehmen
+0x0631825F Hast du bei der Installation die Standardpfade akzeptiert, findest du deine Fotos und Filme unter ~generic0~ (Medientyp).
+0x05D1185C Spiel- & Hilfe-Optionen
+
+#### profile - image quality ####
+
+0x0474E6F5 Bildqualität
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Gesamt
+0x0431D893 Stimmen
+0x0431D894 SFX
+0x0431D896 Alles stumm
+0x0431D897 Mix
+0x0431D898 Lautsprecherkonfiguration
+0x0431D899 2 Lautsprecher (Stereo)
+0x0431D89A 4 Lautsprecher (Quad)
+0x0431D89B 5.1 Lautsprecher (Surround)
+0x0431D89C Soundqualität
+0x0431D89D Gesamtlautstärke
+0x0431D89E Lautstärke der Hintergrundmusik
+0x0431D89F Lautstärke der Kreaturenstimmen
+0x0431D8A0 Lautstärke der Soundeffekte
+0x0431D8A1 Die Lautsprecherkonfiguration kann nur im Bildschirm "Spore-Universum" geändert werden.
+0x0431D895 Musik
+
+## Mac version
+
+0x06318D68 Hast du bei der Installation die Standardpfade akzeptiert, findest du deine Filme und Fotos unter Eigene Dateien\MeinSpore-Kreationen\(medientyp).
+

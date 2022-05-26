@@ -1,0 +1,170 @@
+### profile - middle ground ###
+
+0x0474E6F8 Dost dobrá
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Doplňkové informace
+0x058B62B1 Herní pokyny
+0x058B62B2 Rolování okrajů
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Výchozí
+0x0474E6B5 Grafické nastavení
+0x0474E6C2 Střední
+0x0474E6CC Stíny
+0x0474E6D0 Detaily textur
+0x0474E6D6 Grafické efekty
+0x0474E6DE Kvalita hráčského modelu
+0x0474E6E4 Kvalita planety
+0x0474E6E5 Kvalita osvětlení
+0x0474E6E9 Velikost obrazovky
+0x0474E6F0 Profily
+0x058B6240 Režim celé obrazovky
+0x058B624C Režim okna
+0x0474E6B6 Nízké
+0x0474E6C6 Vysoké
+0x0474E6ED Velikost grafické vyrovnávací paměti (MB)
+0x058A2A2B Změna velikosti obrazovky si vyžádá restartování a může ovlivnit váš výkon.
+0xBBFC7687 Hloubka ostrosti
+0x0674D28F Bloom efekt
+0x066A4BC8 Vyhlazování
+0x0695A585 Příkaz Vrátit bude přepínat mezi modem plné obrazovky a modem v oknech.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A23A4 Zoom
+0x080B23B6 Pohybování kosmickou lodí
+0x080B23B8 Změna výšky letu kosmické lodi
+0x080B23B7 Naklánění a otáčení kamery
+0x080B23B2 Civilizace
+0x080B23B3 Označení cíle
+0x080B23B4 Aktivace nástroje
+0x090A24A7 Pohybování kamerou
+0x090A23A3 Pohybování příšerkou
+0x090A28A7 Označení vozidla
+0x090A28A6 Označení člena kmene
+0x090A26A9 Naklánění a otáčení kamery
+0x088B63B6 Příšerka
+0x090A21A6 Směrové pokyny
+0x088B63B9 Kmen
+0x088B63B7 Když kliknete sem, bude se mapa otáčet pomocí pravého tlačítka myši
+0x090A29A7 Pohybování buňkou
+0x090A50AA Klikněte a táhněte levým tlačítkem myši nebo použijte klávesy W, A, S, D
+0x090A50A6 Otáčejte kolečkem myši
+0x090A50A5 Klikněte a táhněte pravým tlačítkem myši
+0x090A50A7 Klikněte a táhněte oběma tlačítky myši
+0x090A50A8 Klikněte a táhněte pravým tlačítkem myši nebo použijte klávesy W, A, S, D
+0x090A50A9 Příšerka následuje kurzor
+0x090A50A1 Použijte klávesy W, A, S, D
+0x090A30B5 Obdélníkový výběr vozidel
+0x090A30B4 Obdélníkový výběr členů kmene
+0x090A50A4 Klikněte pravým tlačítkem myši
+0x090A50A3 Klikněte a táhněte levým tlačítkem myši
+0x090A50A2 Klikněte levým tlačítkem myši
+0x088B63B3 Buňka
+0x080B23B9 Vesmír
+0x088B63B4 Pro automatické sledování kurzoru klikněte sem
+0x088B63B5 Najeďte myší na ikony dole a zjistíte, k čemu slouží
+0x090A50AB Podržte klávesy Command, Option a levé tlačítko myši
+0x090A50AC Přidržet prostřední tlačítko myši
+
+#### profile - user selects ####
+
+0x0474E6FC Výběr uživatele
+
+#### profile - performance ####
+
+0x0474E6F1 Výkon
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x0565289D Odhlásit se
+0x056528A0 Spojení se serverem
+0x056528A8 ~generic0~ připojen
+0x058B63D4 Estetické provedení
+0x056528A1 Stav:
+0x056528A3 Výzva při startu
+0x056528A5 Vytvořte účet pro připojení ke Spore.
+0x056528A4 Neregistrovaní
+0x0565289F Registrovat se
+0x056528A9 Odpojte se od Spore nebo změňte uživatele.
+0x056528A7 Připojte se ke Spore.
+0x0626E391 Počet dní, po jejichž uplynutí se bude mazat
+0x0626E392 Smazané zkopírovat do archivního adresáře
+0x0626E390 Smazat stará stahování
+0x05E39554 Aktualizuji obsahovou databázi …
+0x058B63D3 Pouze obsahy od kamarádů
+0x056528A2 On-line možnosti
+0x067A21D9 Dní.
+0x067A21D8 Stahovat pouze obsahy novější než tento počet dní:
+0x067A21D7 Vyrovnávací paměť pro stažená data (MB)
+0x0565289E Přihlásit se
+0x056528A6 Off-line
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF2B Audio nastavení
+0x0473EF2C Grafické nastavení
+0x0473EF2D Herní nastavení
+0x0473EF2E Nastavení zachycení
+0x0473EF30 Autoři
+0x0473EF2F On-line nastavení
+0x0473EF33 Nastavení
+0x0473EF32 Zavřete možnosti bez uložení
+0x0473EF31 Uložte svá nastavení
+0x0473EF34 Nastavení ovládání
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 640x480
+0x0589E51A 720x1280
+0x0589E51B 1920x1080
+0x0589E51C Velikost obrázku
+0x0589E51D Malá
+0x0589E51E Střední
+0x0589E51F Velká
+0x058B6381 Nastavení hry a snímání
+0x058B63A0 Zachycení klipu bez zvuku
+0x0589E518 Rozlišení klipu
+0x05664D28 Automaticky mě přihlašte na YouTube
+0x05D1185C Možnosti hry a nápovědy
+0x0631825F Pokud jste při instalaci akceptovali výchozí umístění, naleznete své obrázky a klipy v ~generic0~(obrázky/klipy)
+
+#### profile - image quality ####
+
+0x0474E6F5 Kvalita obrázků
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D894 SFX
+0x0431D896 Ztlumit vše
+0x0431D897 Mix
+0x0431D898 Nastavení reproduktorů
+0x0431D899 2 reproduktory (stereo)
+0x0431D89A 4 reproduktory (quad)
+0x0431D892 Havní
+0x0431D893 Hlasy
+0x0431D895 Hudba
+0x0431D89B Reproduktory 5.1 (surround)
+0x0431D89C Kvalita zvuku
+0x0431D89D Hlasitost všech zvuků
+0x0431D89E Hlasitost hudby ve hře
+0x0431D89F Hlasitost zvuků příšerek
+0x0431D8A0 Hlasitost efektů
+0x0431D8A1 Aby se změna nastavení reproduktorů projevila, je nutné vrátit se zpět na obrazovku Galaxie Spore
+
+## Mac version
+
+0x06318D68 Pokud jste při instalaci akceptovali výchozí umístění, naleznete své obrázky a klipy ve vaší kořenové složce, ve složce Dokumenty, v podložce Moje Spore výtvory/(typ výtvoru).
+

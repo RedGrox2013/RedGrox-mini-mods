@@ -1,0 +1,170 @@
+### profile - middle ground ###
+
+0x0474E6F8 God nok
+
+#### Game options for Gameplay ####
+#### Layout use: GameSettingsGame.layout####
+
+0x058B62B0 Vejledninger
+0x058B62B1 Spiltips
+0x058B62B2 Scroll ved kant
+
+#### Game options for Graphics ####
+#### Layout use: GameSettingsGraphics.layout####
+
+0x0474E6B4 Standardindstillinger
+0x0474E6B5 Grafikindstillinger
+0x0474E6B6 Lav
+0x0474E6C2 Mellem
+0x0474E6C6 Høj
+0x0474E6CC Skygger
+0x0474E6D6 Grafikeffekter
+0x0474E6E9 Skærmstørrelse
+0x0474E6ED Cachestørrelse for grafik (MB)
+0x0474E6F0 Profiler
+0x058B6240 Fuld skærm-visning
+0x058B624C Vindue-visning
+0x0474E6D0 Teksturdetaljer
+0x066A4BC8 Anti-Aliasing
+0x0674D28F Bloom-effekt
+0x0695A585 Command-Return skifter mellem vinduevisning og fuld skærm.
+0xBBFC7687 Perspektivdybde
+0x0474E6E4 Planet
+0x0474E6E5 Lyssætning
+0x0474E6DE Spillermodel
+0x058A2A2B Du skal genstarte spillet hvis du ændrer skærmstørrelsen. Det vil måske påvirke din ydelse.
+
+#### Game options for Camera ####
+#### Layout use: GameSettingsCamera.layout####
+
+0x090A23A4 Zoom
+0x080B23B6 Bevæg rumskib
+0x080B23B8 Skift flyvehøjde for rumskib
+0x080B23B7 Rotér og vip kameraet
+0x080B23B2 Civilisation
+0x080B23B3 Vælg mål
+0x080B23B4 Aktivér værktøj
+0x090A24A7 Bevæg kamera
+0x090A23A3 Bevæg væsen
+0x090A28A7 Vælg et fartøj
+0x090A28A6 Vælg et flokmedlem
+0x090A26A9 Rotér og vip kameraet
+0x088B63B6 Væsen
+0x090A21A6 Angiv retning
+0x088B63B9 Stamme
+0x088B63B7 Højreklik her for at dreje kortet
+0x090A29A7 Bevæg celle
+0x090A50AA Klik på og træk venstre museknap eller brug tasterne W, A, S og D
+0x090A50A6 Scroll musehjulet
+0x090A50A5 Klik på og træk højre museknap
+0x090A50A7 Klik på og træk begge museknapper
+0x090A50A8 Klik på og træk højre museknap eller brug tasterne W, A, S og D
+0x090A50A9 Væsen følger markør
+0x090A50A1 Brug tasterne W, A, S og D
+0x090A30B5 Indkreds valgte fartøjer
+0x090A30B4 Indkreds valgte stammemedlemmer
+0x090A50A4 Klik på højremuseknap
+0x090A50A3 Klik på og træk venstre museknap
+0x090A50A2 Klik på venstre museknap
+0x088B63B3 Celle
+0x080B23B9 Rummet
+0x088B63B4 Klik her for at følge markøren automatisk
+0x088B63B5 Hold markøren over ikonerne for at se, hvordan de virker
+0x090A50AB Hold Command, Option og venstre museknap nede
+0x090A50AC Hold midterste museknap nede
+
+#### profile - user selects ####
+
+0x0474E6FC Brugervalg
+
+#### profile - performance ####
+
+0x0474E6F1 Ydelse
+
+#### Game options for Online ####
+#### Layout use: GameSettingsOnline.layout####
+
+0x056528A6 Offline
+0x0565289D Log ud
+0x0565289E Log på
+0x0565289F Registrér
+0x056528A0 Serverforbindelse
+0x056528A1 Status:
+0x056528A4 Ikke registreret
+0x056528A5 Opret en konto for at etablere forbindelse til Spore.
+0x056528A7 Etablér forbindelse til Spore.
+0x056528A9 Afbryd forbindelse til Spore eller skift bruger.
+0x058B63D4 Æstetisk matching
+0x056528A3 Forespørgsel ved opstart
+0x0626E390 Slet gamle downloads
+0x0626E391 Dage op til, der skal slettes
+0x05E39554 Opdaterer indholdsdatabasen ...
+0x058B63D3 Kun venneindhold
+0x056528A2 Onlineindstillinger
+0x0626E392 Kopiér slettede data til arkivmappe
+0x067A21D9 Dage.
+0x067A21D7 Cachestørrelse for download (MB)
+0x056528A8 ~generic0~ tilsluttet
+0x067A21D8 Kun download indhold for abonnenter nyere end dette antal dage:
+
+##################################################
+#  Used by options tab in options dialog
+##################################################
+#### invidual settings buttons
+
+0x0473EF30 Credits
+0x0473EF2B Lydindstillinger
+0x0473EF2C Grafikindstillinger
+0x0473EF2D Spilindstillinger
+0x0473EF2E Filmindstillinger
+0x0473EF2F Onlineindstillinger
+0x0473EF31 Gem dine indstillinger
+0x0473EF32 Luk Indstillinger uden at gemme
+0x0473EF33 Indstillinger
+0x0473EF34 Styringsindstillinger
+
+#### Game options for Capture ####
+#### Layout use: GameSettingsCapture.layout####
+
+0x0589E519 640x480
+0x0589E51A 720x1280
+0x0589E51B 1920x1080
+0x05664D28 Log mig automatisk på YouTube
+0x0589E518 Filmstørrelse
+0x0589E51C Billedstørrelse
+0x0589E51D Lille
+0x0589E51E Mellem
+0x0589E51F Stor
+0x058B6381 Indstillinger for spil og film
+0x058B63A0 Optag film uden lyd
+0x05D1185C Spil- og hjælpeindstillinger
+0x0631825F Hvis du accepterede standartmappen under installationen, finder du dine billeder og film i mappen ~generic0~(type)
+
+#### profile - image quality ####
+
+0x0474E6F5 Billedkvalitet
+
+#### Game Options for Audio #####
+#### Layout use: GameSettingsAudio.layout####
+
+0x0431D892 Master
+0x0431D893 Stemmer
+0x0431D897 Mix
+0x0431D898 Højtalerkonfiguration
+0x0431D899 2 højtalere (stereo)
+0x0431D89A 4 højtalere (quad)
+0x0431D89B 5.1 højtalere (surround)
+0x0431D894 Effekter
+0x0431D896 Sluk alle
+0x0431D895 Musik
+0x0431D89C Lydkvalitet
+0x0431D89D Lydstyrke for alle lyde
+0x0431D89E Lydstyrke for spilmusik
+0x0431D89F Lydstyrke for stemmer
+0x0431D8A0 Lydstyrke for lydeffekter
+0x0431D8A1 Højtalerkonfigurationen kan kun tilpasses fra Spore Galakse-skærmen.
+
+## Mac version
+
+0x06318D68 Hvis du accepterede standartmappen under installationen, kan du finde dine film og videoer under My Spore Creations/(type) i Dokumenter-mappen.
+
