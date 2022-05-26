@@ -47,6 +47,12 @@ ___
 Добавляет новые анимации для горожан
 
 ![Prikol_scenes](https://media.discordapp.net/attachments/906971382276042776/970683644375072828/unknown.png)
+
+### HD video
+
+Улучшает качество видео, записанное в Spore. Качество зависит от настроек в игре
+
+![HD_video](HD_video.png)
 ___
 
 ## Создатель
