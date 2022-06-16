@@ -53,6 +53,12 @@ ___
 Улучшает качество видео, записанного в Spore. Качество зависит от настроек в игре
 
 ![HD_video](HD_video.png)
+
+### Iaho_crashed_spaceship
+
+Заменяет упавший корабль
+
+![Iaho_crashed_spaceship](Iaho_crashed_spaceship.jpg)
 ___
 
 ## Создатель
